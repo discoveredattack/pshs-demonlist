@@ -118,6 +118,14 @@ export function processLiveDecayFilterAndNews() {
   Object.keys(categories).forEach(cat => {
     let currentSimList = [...categories[cat]];
 
+    // Fast lookup: level name -> current index
+    const indexMap = new Map(
+      currentSimList.map((lvl, index) => [
+        String(lvl.name || lvl.levelName || "").trim().toLowerCase(),
+        index
+        ])
+      );
+
     let todaysAdditions = currentSimList.filter(l => {
       return checkIsToday(l.createdDate || l.date || l.publishDate || l.added || l.timestamp).isToday;
     }).sort((a, b) => {
@@ -129,8 +137,8 @@ export function processLiveDecayFilterAndNews() {
     todaysAdditions.forEach(addition => {
       const addName = String(addition.name || addition.levelName || "").trim().toLowerCase();
       
-      const idx = currentSimList.findIndex(x => String(x.name || x.levelName || "").trim().toLowerCase() === addName);
-      if (idx === -1) return;
+      const idx = indexMap.get(addName);
+      if (idx === undefined) return;
 
       const placementRank = idx + 1; 
 
@@ -146,7 +154,18 @@ export function processLiveDecayFilterAndNews() {
         }
       }
 
-      currentSimList.splice(idx, 1);
+      ccurrentSimList.splice(idx, 1);
+      indexMap.delete(addName);
+
+      // Update indices after the removed element
+      for (let i = idx; i < currentSimList.length; i++) {
+        indexMap.set(
+          String(currentSimList[i].name || currentSimList[i].levelName || "")
+            .trim()
+            .toLowerCase(),
+          i
+        );
+      }
     });
   });
 
