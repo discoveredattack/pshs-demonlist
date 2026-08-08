@@ -4072,46 +4072,7 @@
       }
     ]
   },
-  {
-    "id": "104369404",
-    "rank": 6,
-    "name": "MaybeWavy",
-    "creator": "VRTZE",
-    "verifier": "ModeraGD",
-    "diff": "Hard Challenge",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "https://img.youtube.com/vi/KEtpca-ZYdk/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/KEtpca-ZYdk",
-    "listType": "challenge",
-    "rawTier": 13.9,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-08T00:02:02.058Z",
-    "campus": "Ilocos Region Campus",
-    "victorList": [
-      {
-        "name": "ModeraGD",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/KEtpca-ZYdk",
-        "campus": "Ilocos Region Campus",
-        "date": "2026-07-08T00:02:02.058Z"
-      },
-      {
-        "name": "Lobster999",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/rQyoTsCwk0g",
-        "campus": "Central Visayas Campus",
-        "date": "2026-07-08T15:45:34.628Z"
-      },
-      {
-        "name": "Fortnitekid420",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/xM2Zxoe198Y",
-        "campus": "Zamboanga Peninsula Region Campus",
-        "date": "2026-07-12T22:06:47.637Z"
-      }
-    ]
-  },
+  
   {
     "id": "63400900",
     "rank": 7,
