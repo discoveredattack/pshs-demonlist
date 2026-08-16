@@ -4174,32 +4174,6 @@
     ]
   },
   {
-    "id": "55637201",
-    "rank": 3,
-    "name": "D",
-    "creator": "BoBoBoBoBoBoBo",
-    "verifier": "wkwo1",
-    "diff": "Extreme Challenge",
-    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
-    "img": "https://img.youtube.com/vi/R0LPTSf3vdo/maxresdefault.jpg",
-    "video": "https://youtube.com/embed/R0LPTSf3vdo",
-    "listType": "challenge",
-    "rawTier": 21.1,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-08-13T10:47:48.864Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "wkwo1",
-        "percent": 100,
-        "video": "https://youtube.com/embed/R0LPTSf3vdo",
-        "campus": "Main Campus",
-        "date": "2026-08-13T10:47:48.864Z"
-      }
-    ]
-  },
-  {
     "id": "75010253",
     "rank": 4,
     "name": "Schabernack Chamber",
