@@ -154,7 +154,7 @@ export function processLiveDecayFilterAndNews() {
         }
       }
 
-      ccurrentSimList.splice(idx, 1);
+      currentSimList.splice(idx, 1);
       indexMap.delete(addName);
 
       // Update indices after the removed element
@@ -314,7 +314,7 @@ export function switchListSubTab(tab, bypassUrlSync = false) {
   
   const descEl = document.getElementById('listDescriptionText');
   if (descEl) {
-    if (tab === 'main') descEl.innerText = "The main section of the list. These levels are the hardest rated levels in the game. Records are accepted above a given threshold and award a large amount of points!";
+    if (tab === 'main') descEl.innerText = "The main section of the list. These levels are the hardest rated levels in the game. Records are accepted above a given threshold and award a large amount of points.";
     else if (tab === 'extended') descEl.innerText = "These are levels that don't quite make the cut for the Main List, but are still of extreme difficulty. They award a reduced amount of points.";
     else if (tab === 'legacy') descEl.innerText = "These levels were once on the list but have since fallen off. They no longer award points, but records can still be submitted for legacy purposes.";
   }
@@ -467,8 +467,8 @@ export function showLevelDetailPage(lvl, forceRank) {
   const container = document.getElementById('dRecordsContainer');
 
   if (t) t.textContent = lvl.name || lvl.levelName || "Unnamed Map";
-  if (info) info.innerHTML = `Creator: <strong>${escapeHTML(lvl.creator || 'Unknown')}</strong> | Verifier: <strong>${escapeHTML(lvl.verifier || 'Unknown')}</strong><br>ID Reference: ${escapeHTML(lvl.id || lvl.levelId || 'N/A')}`;
-  if (vid) vid.innerHTML = lvl.video ? `<iframe src="${escapeHTML(lvl.video)}" allowfullscreen style="width:100%; height:100%; border:none; border-radius:6px;"></iframe>` : '<div style="padding:24px; text-align:center; opacity:0.6;">No video available</div>';
+  if (info) info.innerHTML = `Creator: <strong>${escapeHTML(lvl.creator || 'Unknown')}</strong> | Verifier: <strong>${escapeHTML(lvl.verifier || 'Unknown')}</strong><br>ID Reference: ${escapeHTML(lvl.id || 'N/A')}`;
+  if (vid) vid.innerHTML = lvl.video ? `<iframe src="${escapeHTML(lvl.video)}" allowfullscreen style="width:100%; height:100%; border:none; border-radius:6px;"></iframe>` : '<div style="padding:24px; text-align:center; opacity:0.5;">No video available</div>';
   
   if (stats) {
     stats.innerHTML = `
