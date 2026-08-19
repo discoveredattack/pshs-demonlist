@@ -10,7 +10,7 @@ function parseHashHash(h) {
   if (!h) return { page: 'landing', params: {} };
   const raw = h.replace(/^#/, '');
   const [pagePart, queryPart] = raw.split('?');
-  const page = (pagePart || 'landing') || 'landing';
+  const page = pagePart || 'landing';
   const params = {};
   if (queryPart) {
     queryPart.split('&').forEach(kv => {
