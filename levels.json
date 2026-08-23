@@ -1595,48 +1595,8 @@
     ]
   },
   {
-    "id": "44062068",
-    "rank": 54,
-    "name": "Future Funk",
-    "creator": "JonathanGD",
-    "verifier": "sSeanyboii",
-    "diff": "Hard Demon",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "https://img.youtube.com/vi/Dl3X3v5qTcQ/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
-    "listType": "demon",
-    "rawTier": 12.9418098403633,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-24T22:01:26.859Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "JapanGD",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/BWxdUFJc-Lc",
-        "campus": "Central Luzon Campus",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "saulgoodman4",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/KcEzEjooY3o",
-        "campus": "Northern Mindanao Campus",
-        "date": "2026-06-24T22:01:26.859Z"
-      }
-    ]
-  },
-  {
     "id": "40945673",
-    "rank": 55,
+    "rank": 54,
     "name": "CraZy",
     "creator": "DavJT",
     "verifier": "sSeanyboii",
@@ -1662,7 +1622,7 @@
   },
   {
     "id": "113554991",
-    "rank": 56,
+    "rank": 55,
     "name": "Glitter",
     "creator": "MonkeyInABowl",
     "verifier": "ModeraGD",
@@ -1688,7 +1648,7 @@
   },
   {
     "id": "67300705",
-    "rank": 57,
+    "rank": 56,
     "name": "Octagon Force",
     "creator": "JamAttack",
     "verifier": "daBlooKat121",
@@ -1721,7 +1681,7 @@
   },
   {
     "id": "4284013",
-    "rank": 58,
+    "rank": 57,
     "name": "Nine Circles",
     "creator": "Zobros",
     "verifier": "sadboi202",
@@ -1782,7 +1742,7 @@
   },
   {
     "id": "4192768",
-    "rank": 59,
+    "rank": 58,
     "name": "Ditched Machine",
     "creator": "Jeyzor",
     "verifier": "saulgoodman4",
@@ -1808,7 +1768,7 @@
   },
   {
     "id": "6939821",
-    "rank": 60,
+    "rank": 59,
     "name": "Jawbreaker",
     "creator": "ZenthicAlpha",
     "verifier": "daBlooKat121",
@@ -1857,6 +1817,53 @@
         "video": "https://www.youtube.com/embed/cYrE2kfX8oo",
         "campus": "Main Campus",
         "date": "2026-07-10T15:42:49.707Z"
+      }
+    ]
+  },
+  {
+    "id": "44062068",
+    "rank": 60,
+    "name": "Future Funk",
+    "creator": "JonathanGD",
+    "verifier": "sSeanyboii",
+    "diff": "Hard Demon",
+    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
+    "img": "https://img.youtube.com/vi/Dl3X3v5qTcQ/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+    "listType": "demon",
+    "rawTier": 11,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-24T22:01:26.859Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "JapanGD",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/BWxdUFJc-Lc",
+        "campus": "Central Luzon Campus",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "saulgoodman4",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/KcEzEjooY3o",
+        "campus": "Northern Mindanao Campus",
+        "date": "2026-06-24T22:01:26.859Z"
+      },
+      {
+        "name": "Lobster999",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Duh9amEox2s",
+        "campus": "Central Visayas Campus",
+        "date": "2026-08-23T14:44:21.141Z"
       }
     ]
   },
