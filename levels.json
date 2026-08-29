@@ -2736,35 +2736,8 @@
     ]
   },
   {
-    "id": "78964835",
-    "rank": 86,
-    "name": "SemiCircles",
-    "creator": "Abyssinia",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/3lixWbNZuHw/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/3lixWbNZuHw",
-    "listType": "demon",
-    "rawTier": 4.93,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:23.658Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/3lixWbNZuHw",
-        "campus": "Main Campus",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
     "id": "85695827",
-    "rank": 87,
+    "rank": 86,
     "name": "Iodine",
     "creator": "Sr3k",
     "verifier": "sskazeye",
@@ -2786,6 +2759,33 @@
         "video": "https://www.youtube.com/embed/OHskMH6onUU",
         "campus": "Ilocos Region Campus",
         "date": "2026-07-06T20:56:46.525Z"
+      }
+    ]
+  },
+  {
+    "id": "78964835",
+    "rank": 87,
+    "name": "SemiCircles",
+    "creator": "Abyssinia",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/3lixWbNZuHw/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/3lixWbNZuHw",
+    "listType": "demon",
+    "rawTier": 4.7,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:23.658Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/3lixWbNZuHw",
+        "campus": "Main Campus",
+        "date": "2026-06-17T01:42:23.658Z"
       }
     ]
   },
@@ -3259,8 +3259,35 @@
     ]
   },
   {
-    "id": "358750",
+    "id": "61164979",
     "rank": 102,
+    "name": "Outside",
+    "creator": "cuberry",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+    "listType": "demon",
+    "rawTier": 2.8,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-07-08T14:33:54.290Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+        "campus": "Main Campus",
+        "date": "2026-07-08T14:33:54.290Z"
+      }
+    ]
+  },
+  {
+    "id": "358750",
+    "rank": 103,
     "name": "Clutterfunk v2",
     "creator": "IIINePtunEIII",
     "verifier": "sSeanyboii",
@@ -3294,7 +3321,7 @@
   },
   {
     "id": "143231051",
-    "rank": 103,
+    "rank": 104,
     "name": "Blackfire Backfire",
     "creator": "kira9999",
     "verifier": "sSeanyboii",
@@ -3321,7 +3348,7 @@
   },
   {
     "id": "1347537",
-    "rank": 104,
+    "rank": 105,
     "name": "Invisible Clubstep",
     "creator": "J4cKy",
     "verifier": "Akoay",
@@ -3330,7 +3357,7 @@
     "img": "https://img.youtube.com/vi/C4n25hmvr9s/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/KRNorjZLr9U",
     "listType": "demon",
-    "rawTier": 2.61,
+    "rawTier": 2.59,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3350,33 +3377,6 @@
         "video": "https://www.youtube.com/embed/jZpygidlRfk",
         "campus": "Central Luzon Campus",
         "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
-    "id": "61164979",
-    "rank": 105,
-    "name": "Outside",
-    "creator": "cuberry",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 2.61,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:33:54.290Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:33:54.290Z"
       }
     ]
   },
@@ -4032,35 +4032,8 @@
     ]
   },
   {
-    "id": "87257787",
-    "rank": 127,
-    "name": "V01D",
-    "creator": "MinAY",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 1.15,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:34:44.920Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:34:44.920Z"
-      }
-    ]
-  },
-  {
     "id": "142685157",
-    "rank": 128,
+    "rank": 127,
     "name": "GTA Z",
     "creator": "EVILF",
     "verifier": "dibless",
@@ -4094,7 +4067,7 @@
   },
   {
     "id": "5904109",
-    "rank": 129,
+    "rank": 128,
     "name": "Platinum Adventure",
     "creator": "Jerry4",
     "verifier": "sSeanyboii",
@@ -4103,7 +4076,7 @@
     "img": "https://img.youtube.com/vi/WceyniFxqh4/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/WceyniFxqh4",
     "listType": "demon",
-    "rawTier": 1.13,
+    "rawTier": 1.12,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -4151,6 +4124,33 @@
         "video": "https://www.youtube.com/embed/gWOiE2HEkT0",
         "campus": "Zamboanga Peninsula Region Campus",
         "date": "2026-07-05T17:42:48.050Z"
+      }
+    ]
+  },
+  {
+    "id": "87257787",
+    "rank": 129,
+    "name": "V01D",
+    "creator": "MinAY",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+    "listType": "demon",
+    "rawTier": 1.12,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-07-08T14:34:44.920Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+        "campus": "Main Campus",
+        "date": "2026-07-08T14:34:44.920Z"
       }
     ]
   },
