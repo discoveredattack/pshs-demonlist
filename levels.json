@@ -1,7 +1,82 @@
 [
   {
-    "id": "97086864",
+    "id": "134645078",
     "rank": 1,
+    "name": "amethyst",
+    "creator": "ZioGDVN",
+    "verifier": "daBlooKat121",
+    "diff": "Extreme Demon",
+    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
+    "img": "https://img.youtube.com/vi/gTJ_dWMgDp8/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/gTJ_dWMgDp8",
+    "listType": "demon",
+    "rawTier": 6.94,
+    "aredlRank": 4,
+    "aredlPlacement": 4,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:23.658Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "daBlooKat121",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/gTJ_dWMgDp8",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "ModeraGD",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/REz57H0VlRI",
+        "campus": "Ilocos Region Campus",
+        "date": "2026-07-09T17:47:31.420Z"
+      }
+    ]
+  },
+  {
+    "id": "11588490",
+    "rank": 2,
+    "name": "Ultra Paracosm",
+    "creator": "iIiRulasiIi",
+    "verifier": "sadboi202",
+    "diff": "Extreme Demon",
+    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
+    "img": "https://img.youtube.com/vi/X1OU6f6mJgQ/maxresdefault.jpg",
+    "video": "https://drive.google.com/file/d/1sIMUM1ic6CE9TfiS_y6XKhg_Ak9E7co9/view?usp=drivesdk",
+    "listType": "demon",
+    "rawTier": 3.2,
+    "aredlRank": 16,
+    "aredlPlacement": 16,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:23.658Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "sadboi202",
+        "percent": 100,
+        "video": "https://drive.google.com/file/d/1sIMUM1ic6CE9TfiS_y6XKhg_Ak9E7co9/view?usp=drivesdk",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/X1OU6f6mJgQ",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "JapanGD",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/GFeDTDignnw",
+        "campus": "Central Luzon Campus",
+        "date": "2026-06-17T01:42:23.658Z"
+      }
+    ]
+  },
+  {
+    "id": "97086864",
+    "rank": 3,
     "name": "Levigo",
     "creator": "Swib",
     "verifier": "AliceMargatr0id",
@@ -28,7 +103,7 @@
   },
   {
     "id": "88203501",
-    "rank": 2,
+    "rank": 4,
     "name": "UNKNOWN",
     "creator": "NineDice",
     "verifier": "Fortnitekid420",
@@ -55,7 +130,7 @@
   },
   {
     "id": "52374843",
-    "rank": 3,
+    "rank": 5,
     "name": "Zodiac",
     "creator": "Bianox",
     "verifier": "AliceMargatr0id",
@@ -82,7 +157,7 @@
   },
   {
     "id": "71912451",
-    "rank": 4,
+    "rank": 6,
     "name": "RUST",
     "creator": "Neigefeu",
     "verifier": "AliceMargatr0id",
@@ -109,7 +184,7 @@
   },
   {
     "id": "82172844",
-    "rank": 5,
+    "rank": 7,
     "name": "Cobwebs",
     "creator": "NineDice",
     "verifier": "Fortnitekid420",
@@ -136,7 +211,7 @@
   },
   {
     "id": "79997992",
-    "rank": 6,
+    "rank": 8,
     "name": "Shardscapes",
     "creator": "ItzKiba",
     "verifier": "AliceMargatr0id",
@@ -163,7 +238,7 @@
   },
   {
     "id": "112351854",
-    "rank": 7,
+    "rank": 9,
     "name": "Sank",
     "creator": "Waterbound",
     "verifier": "AliceMargatr0id",
@@ -190,7 +265,7 @@
   },
   {
     "id": "46763581",
-    "rank": 8,
+    "rank": 10,
     "name": "Kowareta",
     "creator": "Gablor",
     "verifier": "wkwo1",
@@ -217,7 +292,7 @@
   },
   {
     "id": "26681070",
-    "rank": 9,
+    "rank": 11,
     "name": "Sonic Wave",
     "creator": "lSunix",
     "verifier": "AliceMargatr0id",
@@ -251,7 +326,7 @@
   },
   {
     "id": "51584312",
-    "rank": 10,
+    "rank": 12,
     "name": "super probably level",
     "creator": "alkali",
     "verifier": "AliceMargatr0id",
@@ -278,7 +353,7 @@
   },
   {
     "id": "111797205",
-    "rank": 11,
+    "rank": 13,
     "name": "find the answer",
     "creator": "qalli",
     "verifier": "AliceMargatr0id",
@@ -305,7 +380,7 @@
   },
   {
     "id": "60603962",
-    "rank": 12,
+    "rank": 14,
     "name": "Low Death",
     "creator": "KrmaL",
     "verifier": "AliceMargatr0id",
@@ -332,7 +407,7 @@
   },
   {
     "id": "38235367",
-    "rank": 13,
+    "rank": 15,
     "name": "Quantum Processing",
     "creator": "Riot",
     "verifier": "AliceMargatr0id",
@@ -359,7 +434,7 @@
   },
   {
     "id": "34057654",
-    "rank": 14,
+    "rank": 16,
     "name": "Black Blizzard",
     "creator": "KrmaL",
     "verifier": "AliceMargatr0id",
@@ -386,7 +461,7 @@
   },
   {
     "id": "95355264",
-    "rank": 15,
+    "rank": 17,
     "name": "Hot Rod",
     "creator": "stcubing",
     "verifier": "ModeraGD",
@@ -420,7 +495,7 @@
   },
   {
     "id": "35448603",
-    "rank": 16,
+    "rank": 18,
     "name": "Blade of Justice",
     "creator": "Manix648",
     "verifier": "voxigmd",
@@ -454,7 +529,7 @@
   },
   {
     "id": "129561693",
-    "rank": 17,
+    "rank": 19,
     "name": "Carbon Fiber",
     "creator": "xSlendy",
     "verifier": "ModeraGD",
@@ -481,7 +556,7 @@
   },
   {
     "id": "68848817",
-    "rank": 18,
+    "rank": 20,
     "name": "moment",
     "creator": "lexycat",
     "verifier": "AliceMargatr0id",
@@ -515,7 +590,7 @@
   },
   {
     "id": "10565740",
-    "rank": 19,
+    "rank": 21,
     "name": "Bloodbath",
     "creator": "Riot",
     "verifier": "sadboi202",
@@ -563,7 +638,7 @@
   },
   {
     "id": "20159880",
-    "rank": 20,
+    "rank": 22,
     "name": "Plasma Pulse III",
     "creator": "xSmokes",
     "verifier": "AliceMargatr0id",
@@ -590,7 +665,7 @@
   },
   {
     "id": "63377357",
-    "rank": 21,
+    "rank": 23,
     "name": "Halberd",
     "creator": "notlsa",
     "verifier": "AliceMargatr0id",
@@ -617,7 +692,7 @@
   },
   {
     "id": "95757926",
-    "rank": 22,
+    "rank": 24,
     "name": "Cupid",
     "creator": "Vyp & more",
     "verifier": "ModeraGD",
@@ -644,7 +719,7 @@
   },
   {
     "id": "93916671",
-    "rank": 23,
+    "rank": 25,
     "name": "Shukufuku",
     "creator": "joker179114",
     "verifier": "sskazeye",
@@ -678,7 +753,7 @@
   },
   {
     "id": "20077821",
-    "rank": 24,
+    "rank": 26,
     "name": "Red World Rebirth",
     "creator": "Riot",
     "verifier": "AliceMargatr0id",
@@ -705,7 +780,7 @@
   },
   {
     "id": "56089612",
-    "rank": 25,
+    "rank": 27,
     "name": "Zettabyte",
     "creator": "Jenkins",
     "verifier": "AliceMargatr0id",
@@ -732,7 +807,7 @@
   },
   {
     "id": "69491632",
-    "rank": 26,
+    "rank": 28,
     "name": "Crowd Control",
     "creator": "zDeadlox",
     "verifier": "cosmopopz",
@@ -759,7 +834,7 @@
   },
   {
     "id": "54917442",
-    "rank": 27,
+    "rank": 29,
     "name": "CYCLONE",
     "creator": "BIANOX",
     "verifier": "cosmopopz",
@@ -786,7 +861,7 @@
   },
   {
     "id": "20761188",
-    "rank": 28,
+    "rank": 30,
     "name": "Allegiance",
     "creator": "nikroplays",
     "verifier": "cosmopopz",
@@ -820,7 +895,7 @@
   },
   {
     "id": "30219145",
-    "rank": 29,
+    "rank": 31,
     "name": "HyperSonic",
     "creator": "ViPriN",
     "verifier": "cosmopopz",
@@ -847,7 +922,7 @@
   },
   {
     "id": "3979721",
-    "rank": 30,
+    "rank": 32,
     "name": "Cataclysm",
     "creator": "GGboy",
     "verifier": "sadboi202",
@@ -902,7 +977,7 @@
   },
   {
     "id": "138356396",
-    "rank": 31,
+    "rank": 33,
     "name": "BRUTAL",
     "creator": "Tshack",
     "verifier": "Fortnitekid420",
@@ -929,7 +1004,7 @@
   },
   {
     "id": "81148582",
-    "rank": 32,
+    "rank": 34,
     "name": "Sweater Weather",
     "creator": "VelYT",
     "verifier": "Fortnitekid420",
@@ -963,7 +1038,7 @@
   },
   {
     "id": "61079355",
-    "rank": 33,
+    "rank": 35,
     "name": "Acu",
     "creator": "neigefeu",
     "verifier": "voxigmd",
@@ -1018,16 +1093,16 @@
   },
   {
     "id": "80575901",
-    "rank": 34,
+    "rank": 36,
     "name": "in canon",
     "creator": "cordeaux",
     "verifier": "AliceMargatr0id",
-    "diff": "Extreme Demon",
-    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
+    "diff": "Insane Demon",
+    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
     "img": "https://img.youtube.com/vi/6srdG7Z2gdY/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/6srdG7Z2gdY",
     "listType": "demon",
-    "rawTier": 20.04,
+    "rawTier": 20,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1044,35 +1119,8 @@
     ]
   },
   {
-    "id": "23298409",
-    "rank": 35,
-    "name": "Duelo Maestro",
-    "creator": "Nacho21",
-    "verifier": "AliceMargatr0id",
-    "diff": "Insane Demon",
-    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
-    "img": "https://img.youtube.com/vi/QqZ-uoep9SM/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/QqZ-uoep9SM",
-    "listType": "demon",
-    "rawTier": 19.95,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-06T21:00:28.055Z",
-    "campus": "Davao Region Campus",
-    "victorList": [
-      {
-        "name": "AliceMargatr0id",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/QqZ-uoep9SM",
-        "campus": "Davao Region Campus",
-        "date": "2026-07-06T21:00:28.055Z"
-      }
-    ]
-  },
-  {
     "id": "14145098",
-    "rank": 36,
+    "rank": 37,
     "name": "Invisible Deadlocked",
     "creator": "KrMaL",
     "verifier": "sSeanyboii",
@@ -1081,7 +1129,7 @@
     "img": "https://img.youtube.com/vi/OtThYkW_LGg/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/OtThYkW_LGg",
     "listType": "demon",
-    "rawTier": 18.59,
+    "rawTier": 19.29,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1105,8 +1153,35 @@
     ]
   },
   {
+    "id": "23298409",
+    "rank": 38,
+    "name": "Duelo Maestro",
+    "creator": "Nacho21",
+    "verifier": "AliceMargatr0id",
+    "diff": "Insane Demon",
+    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
+    "img": "https://img.youtube.com/vi/QqZ-uoep9SM/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/QqZ-uoep9SM",
+    "listType": "demon",
+    "rawTier": 19.25,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-06T21:00:28.055Z",
+    "campus": "Davao Region Campus",
+    "victorList": [
+      {
+        "name": "AliceMargatr0id",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/QqZ-uoep9SM",
+        "campus": "Davao Region Campus",
+        "date": "2026-07-06T21:00:28.055Z"
+      }
+    ]
+  },
+  {
     "id": "61137742",
-    "rank": 37,
+    "rank": 39,
     "name": "Leyak",
     "creator": "EnZore",
     "verifier": "sskazeye",
@@ -1115,7 +1190,7 @@
     "img": "https://img.youtube.com/vi/Gt6aQyKUJ68/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/Gt6aQyKUJ68",
     "listType": "demon",
-    "rawTier": 18.14,
+    "rawTier": 18.22,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1140,7 +1215,7 @@
   },
   {
     "id": "102265892",
-    "rank": 38,
+    "rank": 40,
     "name": "Sonic Wave Unlimited",
     "creator": "zNotNinja",
     "verifier": "IceRig",
@@ -1167,7 +1242,7 @@
   },
   {
     "id": "5155022",
-    "rank": 39,
+    "rank": 41,
     "name": "Acropolis",
     "creator": "Zobros",
     "verifier": "dibless",
@@ -1176,7 +1251,7 @@
     "img": "https://img.youtube.com/vi/quPd5eRGMEY/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/quPd5eRGMEY",
     "listType": "demon",
-    "rawTier": 17.21,
+    "rawTier": 17.38,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1222,7 +1297,7 @@
   },
   {
     "id": "82824219",
-    "rank": 40,
+    "rank": 42,
     "name": "MikuMikuMikuMiku",
     "creator": "OddMod",
     "verifier": "sskazeye",
@@ -1231,7 +1306,7 @@
     "img": "https://img.youtube.com/vi/t3kUlS7bwEs/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/t3kUlS7bwEs",
     "listType": "demon",
-    "rawTier": 17.14,
+    "rawTier": 17,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1249,7 +1324,7 @@
   },
   {
     "id": "13437081",
-    "rank": 41,
+    "rank": 43,
     "name": "Firewall",
     "creator": "Hinds",
     "verifier": "AliceMargatr0id",
@@ -1258,7 +1333,7 @@
     "img": "https://img.youtube.com/vi/EMLqJBbPAJY/maxresdefault.jpg",
     "video": "https://youtube.com/embed/EMLqJBbPAJY",
     "listType": "demon",
-    "rawTier": 16.97,
+    "rawTier": 16.84,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1276,7 +1351,7 @@
   },
   {
     "id": "4706930",
-    "rank": 42,
+    "rank": 44,
     "name": "Supersonic",
     "creator": "ZenthicAlpha",
     "verifier": "voxigmd",
@@ -1285,7 +1360,7 @@
     "img": "https://img.youtube.com/vi/-xPpxeT3jrk/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/-xPpxeT3jrk",
     "listType": "demon",
-    "rawTier": 16.87,
+    "rawTier": 16.72,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1310,7 +1385,7 @@
   },
   {
     "id": "27655282",
-    "rank": 43,
+    "rank": 45,
     "name": "Kuiper",
     "creator": "GD Quasar",
     "verifier": "LightBlu",
@@ -1319,7 +1394,7 @@
     "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
     "listType": "demon",
-    "rawTier": 16.7,
+    "rawTier": 15.83,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1344,7 +1419,7 @@
   },
   {
     "id": "4957691",
-    "rank": 44,
+    "rank": 46,
     "name": "Windy Landscape",
     "creator": "WOOGI1411",
     "verifier": "daBlooKat121",
@@ -1353,7 +1428,7 @@
     "img": "https://img.youtube.com/vi/qAJQ8t2gvE0/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/qAJQ8t2gvE0",
     "listType": "demon",
-    "rawTier": 15.76,
+    "rawTier": 15.6,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1385,7 +1460,7 @@
   },
   {
     "id": "56568010",
-    "rank": 45,
+    "rank": 47,
     "name": "Magma Bound",
     "creator": "ScorchVx",
     "verifier": "dibless",
@@ -1394,7 +1469,7 @@
     "img": "https://img.youtube.com/vi/gdhhyQ-eBI8/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/gdhhyQ-eBI8",
     "listType": "demon",
-    "rawTier": 15.75,
+    "rawTier": 15.52,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1411,35 +1486,35 @@
     ]
   },
   {
-    "id": "58570720",
-    "rank": 46,
-    "name": "1929",
-    "creator": "Lfritz",
-    "verifier": "cosmopopz",
+    "id": "4545425",
+    "rank": 48,
+    "name": "Stalemate",
+    "creator": "Nox",
+    "verifier": "IceRig",
     "diff": "Insane Demon",
     "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
-    "img": "https://img.youtube.com/vi/i7Jnp11Yr9g/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/i7Jnp11Yr9g",
+    "img": "https://img.youtube.com/vi/m-QhTbhO1kM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/m-QhTbhO1kM",
     "listType": "demon",
-    "rawTier": 15.31,
+    "rawTier": 15.48,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-07-05T13:32:53.897Z",
-    "campus": "Davao Region Campus",
+    "date": "2026-06-28T18:02:58.442Z",
+    "campus": "Western Visayas Campus",
     "victorList": [
       {
-        "name": "cosmopopz",
+        "name": "IceRig",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/i7Jnp11Yr9g",
-        "campus": "Davao Region Campus",
-        "date": "2026-07-05T13:32:53.897Z"
+        "video": "https://www.youtube.com/embed/m-QhTbhO1kM",
+        "campus": "Western Visayas Campus",
+        "date": "2026-06-28T18:02:58.442Z"
       }
     ]
   },
   {
     "id": "47620786",
-    "rank": 47,
+    "rank": 49,
     "name": "CraZy II",
     "creator": "DavJT",
     "verifier": "IceRig",
@@ -1448,7 +1523,7 @@
     "img": "https://img.youtube.com/vi/rsih2CrkekY/mqdefault.jpg",
     "video": "https://www.youtube.com/embed/rsih2CrkekY",
     "listType": "demon",
-    "rawTier": 15.31,
+    "rawTier": 15.44,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1479,35 +1554,35 @@
     ]
   },
   {
-    "id": "4545425",
-    "rank": 48,
-    "name": "Stalemate",
-    "creator": "Nox",
-    "verifier": "IceRig",
+    "id": "58570720",
+    "rank": 50,
+    "name": "1929",
+    "creator": "Lfritz",
+    "verifier": "cosmopopz",
     "diff": "Insane Demon",
     "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
-    "img": "https://img.youtube.com/vi/m-QhTbhO1kM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/m-QhTbhO1kM",
+    "img": "https://img.youtube.com/vi/i7Jnp11Yr9g/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/i7Jnp11Yr9g",
     "listType": "demon",
-    "rawTier": 15.2,
+    "rawTier": 15.41,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-06-28T18:02:58.442Z",
-    "campus": "Western Visayas Campus",
+    "date": "2026-07-05T13:32:53.897Z",
+    "campus": "Davao Region Campus",
     "victorList": [
       {
-        "name": "IceRig",
+        "name": "cosmopopz",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/m-QhTbhO1kM",
-        "campus": "Western Visayas Campus",
-        "date": "2026-06-28T18:02:58.442Z"
+        "video": "https://www.youtube.com/embed/i7Jnp11Yr9g",
+        "campus": "Davao Region Campus",
+        "date": "2026-07-05T13:32:53.897Z"
       }
     ]
   },
   {
     "id": "10312917",
-    "rank": 49,
+    "rank": 51,
     "name": "Sharp Minor",
     "creator": "Giron",
     "verifier": "AliceMargatr0id",
@@ -1516,7 +1591,7 @@
     "img": "https://img.youtube.com/vi/G3jj9iCgDoQ/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/G3jj9iCgDoQ",
     "listType": "demon",
-    "rawTier": 15.18,
+    "rawTier": 15.34,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1534,7 +1609,7 @@
   },
   {
     "id": "19564763",
-    "rank": 50,
+    "rank": 52,
     "name": "The Furious",
     "creator": "Knobbelboy",
     "verifier": "AliceMargatr0id",
@@ -1543,7 +1618,7 @@
     "img": "https://img.youtube.com/vi/6s7RC91TtCw/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/6s7RC91TtCw",
     "listType": "demon",
-    "rawTier": 14.82,
+    "rawTier": 14.65,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1561,7 +1636,7 @@
   },
   {
     "id": "11402965",
-    "rank": 51,
+    "rank": 53,
     "name": "Forest Temple",
     "creator": "Michigun",
     "verifier": "aldawg123",
@@ -1570,7 +1645,7 @@
     "img": "https://img.youtube.com/vi/ZKT1_Mq7hD0/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/VzyvIOn7PBc",
     "listType": "demon",
-    "rawTier": 13.96,
+    "rawTier": 14.26,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1595,7 +1670,7 @@
   },
   {
     "id": "5310094",
-    "rank": 52,
+    "rank": 54,
     "name": "Fairydust",
     "creator": "mkComic",
     "verifier": "sSeanyboii",
@@ -1604,7 +1679,7 @@
     "img": "https://img.youtube.com/vi/LmeiYgQRWdg/maxresdefault.jpg",
     "video": "https://youtube.com/embed/LmeiYgQRWdg&si=1X-EyZNPWuER2oTF",
     "listType": "demon",
-    "rawTier": 13.77,
+    "rawTier": 13.57,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1622,7 +1697,7 @@
   },
   {
     "id": "40945673",
-    "rank": 53,
+    "rank": 55,
     "name": "CraZy",
     "creator": "DavJT",
     "verifier": "sSeanyboii",
@@ -1631,7 +1706,7 @@
     "img": "https://img.youtube.com/vi/7hqKtA3AXFY/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/E9_sNo1WVHo",
     "listType": "demon",
-    "rawTier": 12.87,
+    "rawTier": 13.37,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1648,8 +1723,83 @@
     ]
   },
   {
+    "id": "44062068",
+    "rank": 56,
+    "name": "Future Funk",
+    "creator": "JonathanGD",
+    "verifier": "sSeanyboii",
+    "diff": "Hard Demon",
+    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
+    "img": "https://img.youtube.com/vi/Dl3X3v5qTcQ/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+    "listType": "demon",
+    "rawTier": 12.84,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-24T22:01:26.859Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "JapanGD",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/BWxdUFJc-Lc",
+        "campus": "Central Luzon Campus",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "saulgoodman4",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/KcEzEjooY3o",
+        "campus": "Northern Mindanao Campus",
+        "date": "2026-06-24T22:01:26.859Z"
+      },
+      {
+        "name": "Lobster999",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Duh9amEox2s",
+        "campus": "Central Visayas Campus",
+        "date": "2026-08-23T14:44:21.141Z"
+      }
+    ]
+  },
+  {
+    "id": "6988264",
+    "rank": 57,
+    "name": "Astronaut 13",
+    "creator": "Minesap",
+    "verifier": "sSeanyboii",
+    "diff": "Hard Demon",
+    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
+    "img": "",
+    "video": "https://www.youtube.com/embed/eO-48T0yaSM",
+    "listType": "demon",
+    "rawTier": 12.47,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-08-28T21:30:09.157Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/eO-48T0yaSM",
+        "campus": "Main Campus",
+        "date": "2026-08-28T21:30:09.157Z"
+      }
+    ]
+  },
+  {
     "id": "113554991",
-    "rank": 54,
+    "rank": 58,
     "name": "Glitter",
     "creator": "MonkeyInABowl",
     "verifier": "ModeraGD",
@@ -1675,42 +1825,8 @@
     ]
   },
   {
-    "id": "67300705",
-    "rank": 55,
-    "name": "Octagon Force",
-    "creator": "JamAttack",
-    "verifier": "daBlooKat121",
-    "diff": "Hard Demon",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "https://img.youtube.com/vi/LhsUg_yadx4/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/LhsUg_yadx4",
-    "listType": "demon",
-    "rawTier": 11.24,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-24T18:35:15.059Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "daBlooKat121",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/LhsUg_yadx4",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "saulgoodman4",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/pWyeWWFnqhU",
-        "campus": "Northern Mindanao Campus",
-        "date": "2026-06-24T18:35:15.059Z"
-      }
-    ]
-  },
-  {
     "id": "4284013",
-    "rank": 56,
+    "rank": 59,
     "name": "Nine Circles",
     "creator": "Zobros",
     "verifier": "sadboi202",
@@ -1719,7 +1835,7 @@
     "img": "https://geometrygames.io/cache/data/image/geometry-dash-nine-circles-m192x108.webp",
     "video": "https://www.youtube.com/embed/DO36t7DV0ec",
     "listType": "demon",
-    "rawTier": 11.16,
+    "rawTier": 11.29,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1772,7 +1888,7 @@
   },
   {
     "id": "4192768",
-    "rank": 57,
+    "rank": 60,
     "name": "Ditched Machine",
     "creator": "Jeyzor",
     "verifier": "saulgoodman4",
@@ -1781,7 +1897,7 @@
     "img": "https://img.youtube.com/vi/SnfMqwk-RAw/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/SnfMqwk-RAw",
     "listType": "demon",
-    "rawTier": 11.15,
+    "rawTier": 11.25,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1799,7 +1915,7 @@
   },
   {
     "id": "6939821",
-    "rank": 58,
+    "rank": 61,
     "name": "Jawbreaker",
     "creator": "ZenthicAlpha",
     "verifier": "daBlooKat121",
@@ -1808,7 +1924,7 @@
     "img": "https://img.youtube.com/vi/oQl4WFWzwZY/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/o4-PvIWPAtI",
     "listType": "demon",
-    "rawTier": 11.13,
+    "rawTier": 11.21,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -1853,56 +1969,42 @@
     ]
   },
   {
-    "id": "44062068",
-    "rank": 59,
-    "name": "Future Funk",
-    "creator": "JonathanGD",
-    "verifier": "sSeanyboii",
+    "id": "67300705",
+    "rank": 62,
+    "name": "Octagon Force",
+    "creator": "JamAttack",
+    "verifier": "daBlooKat121",
     "diff": "Hard Demon",
     "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "https://img.youtube.com/vi/Dl3X3v5qTcQ/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+    "img": "https://img.youtube.com/vi/LhsUg_yadx4/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/LhsUg_yadx4",
     "listType": "demon",
-    "rawTier": 11,
+    "rawTier": 11.19,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-06-24T22:01:26.859Z",
+    "date": "2026-06-24T18:35:15.059Z",
     "campus": "",
     "victorList": [
       {
-        "name": "sSeanyboii",
+        "name": "daBlooKat121",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/Dl3X3v5qTcQ",
+        "video": "https://www.youtube.com/embed/LhsUg_yadx4",
         "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "JapanGD",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/BWxdUFJc-Lc",
-        "campus": "Central Luzon Campus",
         "date": "2026-06-17T01:42:23.658Z"
       },
       {
         "name": "saulgoodman4",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/KcEzEjooY3o",
+        "video": "https://www.youtube.com/embed/pWyeWWFnqhU",
         "campus": "Northern Mindanao Campus",
-        "date": "2026-06-24T22:01:26.859Z"
-      },
-      {
-        "name": "Lobster999",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/Duh9amEox2s",
-        "campus": "Central Visayas Campus",
-        "date": "2026-08-23T14:44:21.141Z"
+        "date": "2026-06-24T18:35:15.059Z"
       }
     ]
   },
   {
     "id": "60619762",
-    "rank": 60,
+    "rank": 63,
     "name": "Denouement",
     "creator": "SYNACTIVE GD",
     "verifier": "aldawg123",
@@ -1956,8 +2058,35 @@
     ]
   },
   {
+    "id": "102824396",
+    "rank": 64,
+    "name": "Mass Surveillance",
+    "creator": "Starbom",
+    "verifier": "MatMat0",
+    "diff": "Hard Demon",
+    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
+    "img": "https://img.youtube.com/vi/1EhoGWFR3iU/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/1EhoGWFR3iU",
+    "listType": "demon",
+    "rawTier": 11,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-11T14:30:27.012Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "MatMat0",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/1EhoGWFR3iU",
+        "campus": "Main Campus",
+        "date": "2026-07-11T14:30:27.012Z"
+      }
+    ]
+  },
+  {
     "id": "7054561",
-    "rank": 61,
+    "rank": 65,
     "name": "Poltergeist",
     "creator": "AndromedaGMD",
     "verifier": "sadboi202",
@@ -1997,62 +2126,8 @@
     ]
   },
   {
-    "id": "102824396",
-    "rank": 62,
-    "name": "Mass Surveillance",
-    "creator": "Starbom",
-    "verifier": "MatMat0",
-    "diff": "Hard Demon",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "https://img.youtube.com/vi/1EhoGWFR3iU/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/1EhoGWFR3iU",
-    "listType": "demon",
-    "rawTier": 11,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-11T14:30:27.012Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "MatMat0",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/1EhoGWFR3iU",
-        "campus": "Main Campus",
-        "date": "2026-07-11T14:30:27.012Z"
-      }
-    ]
-  },
-  {
-    "id": "6988264",
-    "rank": 63,
-    "name": "Astronaut 13",
-    "creator": "Minesap",
-    "verifier": "sSeanyboii",
-    "diff": "Hard Demon",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
-    "img": "",
-    "video": "https://www.youtube.com/embed/eO-48T0yaSM",
-    "listType": "demon",
-    "rawTier": 11,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-08-28T21:30:09.157Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/eO-48T0yaSM",
-        "campus": "Main Campus",
-        "date": "2026-08-28T21:30:09.157Z"
-      }
-    ]
-  },
-  {
     "id": "63075323",
-    "rank": 64,
+    "rank": 66,
     "name": "white women",
     "creator": "heatherhayes",
     "verifier": "daBlooKat121",
@@ -2061,7 +2136,7 @@
     "img": "https://img.youtube.com/vi/0g1Tgigi6Lg/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/0g1Tgigi6Lg",
     "listType": "demon",
-    "rawTier": 10.79,
+    "rawTier": 10.76,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2079,7 +2154,7 @@
   },
   {
     "id": "38398923",
-    "rank": 65,
+    "rank": 67,
     "name": "Nowise",
     "creator": "Darwin",
     "verifier": "ModeraGD",
@@ -2088,7 +2163,7 @@
     "img": "https://img.youtube.com/vi/tURF8BrkD14/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/tURF8BrkD14",
     "listType": "demon",
-    "rawTier": 10.73,
+    "rawTier": 10.63,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2106,16 +2181,16 @@
   },
   {
     "id": "92742742",
-    "rank": 66,
+    "rank": 68,
     "name": "tower descent",
     "creator": "pocke",
     "verifier": "daBlooKat121",
-    "diff": "Hard Demon",
-    "face": "https://gdladder.com/images/demon_logos/hard_128.webp",
+    "diff": "Medium Demon",
+    "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
     "img": "https://img.youtube.com/vi/qnGctCfis_k/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/bQ06DXrynYU",
     "listType": "demon",
-    "rawTier": 10.13,
+    "rawTier": 9.73,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2133,7 +2208,7 @@
   },
   {
     "id": "21761387",
-    "rank": 67,
+    "rank": 69,
     "name": "Bloodbath Z",
     "creator": "Zyzyx",
     "verifier": "Fortnitekid420",
@@ -2142,7 +2217,7 @@
     "img": "https://img.youtube.com/vi/uJHqwXGtY3s/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/uJHqwXGtY3s",
     "listType": "demon",
-    "rawTier": 8.86,
+    "rawTier": 8.94,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2160,7 +2235,7 @@
   },
   {
     "id": "114532158",
-    "rank": 68,
+    "rank": 70,
     "name": "Troll Madness",
     "creator": "zyphur",
     "verifier": "sSeanyboii",
@@ -2194,7 +2269,7 @@
   },
   {
     "id": "111205474",
-    "rank": 69,
+    "rank": 71,
     "name": "Thermal Madness",
     "creator": "ManiacDan",
     "verifier": "daBlooKat121",
@@ -2221,7 +2296,7 @@
   },
   {
     "id": "25706351",
-    "rank": 70,
+    "rank": 72,
     "name": "HeLL",
     "creator": "Serponge",
     "verifier": "dibless",
@@ -2230,7 +2305,7 @@
     "img": "https://img.youtube.com/vi/71_6jUmy6Gs/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/71_6jUmy6Gs",
     "listType": "demon",
-    "rawTier": 8.06,
+    "rawTier": 8.1,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2247,42 +2322,8 @@
     ]
   },
   {
-    "id": "16667379",
-    "rank": 71,
-    "name": "Liberation",
-    "creator": "Serponge",
-    "verifier": "LightBlu",
-    "diff": "Medium Demon",
-    "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
-    "img": "https://img.youtube.com/vi/apDmVgg6Y5Q/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/H3OIQNZkIrE",
-    "listType": "demon",
-    "rawTier": 7.08,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:23.658Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "LightBlu",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/H3OIQNZkIrE",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/-oT6ECpmFr4",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
     "id": "3264805",
-    "rank": 72,
+    "rank": 73,
     "name": "Theory of SkriLLex",
     "creator": "noobas",
     "verifier": "dibless",
@@ -2291,7 +2332,7 @@
     "img": "https://img.youtube.com/vi/7tTNxSp0hUc/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/7tTNxSp0hUc",
     "listType": "demon",
-    "rawTier": 7.08,
+    "rawTier": 7.41,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2308,17 +2349,17 @@
     ]
   },
   {
-    "id": "94716697",
-    "rank": 73,
-    "name": "CELESTIA",
-    "creator": "notxo",
+    "id": "61417747",
+    "rank": 74,
+    "name": "potal",
+    "creator": "Sillow",
     "verifier": "sSeanyboii",
     "diff": "Medium Demon",
     "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
-    "img": "https://img.youtube.com/vi/27tbhOlt_l8/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/27tbhOlt_l8",
+    "img": "https://img.youtube.com/vi/uTkTGnuiFIc/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/uTkTGnuiFIc",
     "listType": "demon",
-    "rawTier": 7,
+    "rawTier": 7.3,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2328,7 +2369,7 @@
       {
         "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/27tbhOlt_l8",
+        "video": "https://www.youtube.com/embed/uTkTGnuiFIc",
         "campus": "Main Campus",
         "date": "2026-06-17T01:42:23.658Z"
       }
@@ -2336,7 +2377,7 @@
   },
   {
     "id": "58002670",
-    "rank": 74,
+    "rank": 75,
     "name": "Sakupen Egg",
     "creator": "Sivlol",
     "verifier": "daBlooKat121",
@@ -2345,7 +2386,7 @@
     "img": "https://img.youtube.com/vi/uGuo5RFF45g/mqdefault.jpg",
     "video": "https://www.youtube.com/embed/19Ct5w32jMk",
     "listType": "demon",
-    "rawTier": 6.97,
+    "rawTier": 7.26,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2383,63 +2424,29 @@
     ]
   },
   {
-    "id": "134645078",
-    "rank": 75,
-    "name": "amethyst",
-    "creator": "ZioGDVN",
-    "verifier": "daBlooKat121",
+    "id": "94716697",
+    "rank": 76,
+    "name": "CELESTIA",
+    "creator": "notxo",
+    "verifier": "sSeanyboii",
     "diff": "Medium Demon",
     "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
-    "img": "https://img.youtube.com/vi/gTJ_dWMgDp8/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/gTJ_dWMgDp8",
+    "img": "https://img.youtube.com/vi/27tbhOlt_l8/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/27tbhOlt_l8",
     "listType": "demon",
-    "rawTier": 6.94,
+    "rawTier": 7,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
     "date": "2026-06-17T01:42:23.658Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "daBlooKat121",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/gTJ_dWMgDp8",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "ModeraGD",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/REz57H0VlRI",
-        "campus": "Ilocos Region Campus",
-        "date": "2026-07-09T17:47:31.420Z"
-      }
-    ]
-  },
-  {
-    "id": "21337579",
-    "rank": 76,
-    "name": "Gold Temple",
-    "creator": "Serponge",
-    "verifier": "dibless",
-    "diff": "Medium Demon",
-    "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
-    "img": "https://img.youtube.com/vi/nrRFV9jGZdU/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/nrRFV9jGZdU",
-    "listType": "demon",
-    "rawTier": 6.87,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-22T16:17:17.312Z",
     "campus": "Main Campus",
     "victorList": [
       {
-        "name": "dibless",
+        "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/nrRFV9jGZdU",
+        "video": "https://www.youtube.com/embed/27tbhOlt_l8",
         "campus": "Main Campus",
-        "date": "2026-06-22T16:17:17.312Z"
+        "date": "2026-06-17T01:42:23.658Z"
       }
     ]
   },
@@ -2498,8 +2505,35 @@
     ]
   },
   {
-    "id": "118509879",
+    "id": "21337579",
     "rank": 79,
+    "name": "Gold Temple",
+    "creator": "Serponge",
+    "verifier": "dibless",
+    "diff": "Medium Demon",
+    "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
+    "img": "https://img.youtube.com/vi/nrRFV9jGZdU/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/nrRFV9jGZdU",
+    "listType": "demon",
+    "rawTier": 6.68,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-22T16:17:17.312Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "dibless",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/nrRFV9jGZdU",
+        "campus": "Main Campus",
+        "date": "2026-06-22T16:17:17.312Z"
+      }
+    ]
+  },
+  {
+    "id": "118509879",
+    "rank": 80,
     "name": "Skeletal Shenanigans",
     "creator": "YoReid",
     "verifier": "sSeanyboii",
@@ -2525,35 +2559,42 @@
     ]
   },
   {
-    "id": "61417747",
-    "rank": 80,
-    "name": "potal",
-    "creator": "Sillow",
-    "verifier": "sSeanyboii",
+    "id": "16667379",
+    "rank": 81,
+    "name": "Liberation",
+    "creator": "Serponge",
+    "verifier": "LightBlu",
     "diff": "Medium Demon",
     "face": "https://gdladder.com/images/demon_logos/medium_128.webp",
-    "img": "https://img.youtube.com/vi/uTkTGnuiFIc/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/uTkTGnuiFIc",
+    "img": "https://img.youtube.com/vi/apDmVgg6Y5Q/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/H3OIQNZkIrE",
     "listType": "demon",
-    "rawTier": 6.48,
+    "rawTier": 6.5,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
     "date": "2026-06-17T01:42:23.658Z",
-    "campus": "Main Campus",
+    "campus": "",
     "victorList": [
+      {
+        "name": "LightBlu",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/H3OIQNZkIrE",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
       {
         "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/uTkTGnuiFIc",
-        "campus": "Main Campus",
+        "video": "https://www.youtube.com/embed/-oT6ECpmFr4",
+        "campus": "",
         "date": "2026-06-17T01:42:23.658Z"
       }
     ]
   },
   {
     "id": "7016598",
-    "rank": 81,
+    "rank": 82,
     "name": "Speed of Light II",
     "creator": "TheRealSalad",
     "verifier": "sSeanyboii",
@@ -2562,7 +2603,7 @@
     "img": "https://img.youtube.com/vi/7s4ql1CMdtw/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/7s4ql1CMdtw",
     "listType": "demon",
-    "rawTier": 6.02,
+    "rawTier": 6.13,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2580,7 +2621,7 @@
   },
   {
     "id": "10972106",
-    "rank": 82,
+    "rank": 83,
     "name": "Solar Circles",
     "creator": "D4rkGryf",
     "verifier": "daBlooKat121",
@@ -2589,7 +2630,7 @@
     "img": "https://img.youtube.com/vi/gknJ-1zqIQc/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/gknJ-1zqIQc",
     "listType": "demon",
-    "rawTier": 5.91,
+    "rawTier": 5.83,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2614,7 +2655,7 @@
   },
   {
     "id": "34085027",
-    "rank": 83,
+    "rank": 84,
     "name": "B",
     "creator": "motleyorc",
     "verifier": "sSeanyboii",
@@ -2623,7 +2664,7 @@
     "img": "https://img.youtube.com/vi/msYWaxlIazs/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/msYWaxlIazs",
     "listType": "demon",
-    "rawTier": 5.8,
+    "rawTier": 5.61,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2676,7 +2717,7 @@
   },
   {
     "id": "96716452",
-    "rank": 84,
+    "rank": 85,
     "name": "Living Open",
     "creator": "MaFFaKa",
     "verifier": "sSeanyboii",
@@ -2710,7 +2751,7 @@
   },
   {
     "id": "125574247",
-    "rank": 85,
+    "rank": 86,
     "name": "Boobawamba",
     "creator": "Macbookpro16",
     "verifier": "dudsiez404",
@@ -2736,89 +2777,8 @@
     ]
   },
   {
-    "id": "78964835",
-    "rank": 86,
-    "name": "SemiCircles",
-    "creator": "Abyssinia",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/3lixWbNZuHw/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/3lixWbNZuHw",
-    "listType": "demon",
-    "rawTier": 4.93,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:23.658Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/3lixWbNZuHw",
-        "campus": "Main Campus",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
-    "id": "72810041",
-    "rank": 87,
-    "name": "ZXCircleS",
-    "creator": "Wintter",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/xS_wL4ptLb4/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/xS_wL4ptLb4",
-    "listType": "demon",
-    "rawTier": 4.86,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-13T17:02:43.798Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/xS_wL4ptLb4",
-        "campus": "Main Campus",
-        "date": "2026-07-13T17:02:43.798Z"
-      }
-    ]
-  },
-  {
-    "id": "85695827",
-    "rank": 88,
-    "name": "Iodine",
-    "creator": "Sr3k",
-    "verifier": "sskazeye",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/OHskMH6onUU/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/OHskMH6onUU",
-    "listType": "demon",
-    "rawTier": 4.44,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-06T20:56:46.525Z",
-    "campus": "Ilocos Region Campus",
-    "victorList": [
-      {
-        "name": "sskazeye",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/OHskMH6onUU",
-        "campus": "Ilocos Region Campus",
-        "date": "2026-07-06T20:56:46.525Z"
-      }
-    ]
-  },
-  {
     "id": "20",
-    "rank": 89,
+    "rank": 87,
     "name": "Deadlocked",
     "creator": "RobTop",
     "verifier": "sSeanyboii",
@@ -2827,7 +2787,7 @@
     "img": "https://img.youtube.com/vi/wE2-_EFQPVk/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/wE2-_EFQPVk",
     "listType": "demon",
-    "rawTier": 4.2,
+    "rawTier": 4.97,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -2858,184 +2818,89 @@
     ]
   },
   {
-    "id": "99246761",
-    "rank": 90,
-    "name": "it really circles",
-    "creator": "EnenzoGD",
+    "id": "78964835",
+    "rank": 88,
+    "name": "SemiCircles",
+    "creator": "Abyssinia",
     "verifier": "sSeanyboii",
     "diff": "Easy Demon",
     "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/7m8hD0z0YF4/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/7m8hD0z0YF4",
+    "img": "https://img.youtube.com/vi/3lixWbNZuHw/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/3lixWbNZuHw",
     "listType": "demon",
-    "rawTier": 3.97,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:12.000Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/7m8hD0z0YF4",
-        "campus": "Main Campus",
-        "date": "2026-06-17T01:42:12.000Z"
-      }
-    ]
-  },
-  {
-    "id": "26245696",
-    "rank": 91,
-    "name": "Trump Circles",
-    "creator": "Rlol",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/Jj-Jj_vKTis/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/Jj-Jj_vKTis",
-    "listType": "demon",
-    "rawTier": 3.79,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-14T21:58:29.616Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/Jj-Jj_vKTis",
-        "campus": "Main Campus",
-        "date": "2026-07-14T21:58:29.616Z"
-      }
-    ]
-  },
-  {
-    "id": "11588490",
-    "rank": 92,
-    "name": "Ultra Paracosm",
-    "creator": "iIiRulasiIi",
-    "verifier": "sadboi202",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/X1OU6f6mJgQ/maxresdefault.jpg",
-    "video": "https://drive.google.com/file/d/1sIMUM1ic6CE9TfiS_y6XKhg_Ak9E7co9/view?usp=drivesdk",
-    "listType": "demon",
-    "rawTier": 3.2,
+    "rawTier": 4.93,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
     "date": "2026-06-17T01:42:23.658Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "sadboi202",
-        "percent": 100,
-        "video": "https://drive.google.com/file/d/1sIMUM1ic6CE9TfiS_y6XKhg_Ak9E7co9/view?usp=drivesdk",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/X1OU6f6mJgQ",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "JapanGD",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/GFeDTDignnw",
-        "campus": "Central Luzon Campus",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
-    "id": "18735780",
-    "rank": 93,
-    "name": "Dear Nostalgists",
-    "creator": "TriAxis",
-    "verifier": "dibless",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/RKPfJMrcRHo/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/RKPfJMrcRHo",
-    "listType": "demon",
-    "rawTier": 3.16,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-21T08:03:33.090Z",
     "campus": "Main Campus",
     "victorList": [
       {
-        "name": "dibless",
+        "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/RKPfJMrcRHo",
+        "video": "https://www.youtube.com/embed/3lixWbNZuHw",
         "campus": "Main Campus",
-        "date": "2026-06-21T08:03:33.090Z"
+        "date": "2026-06-17T01:42:23.658Z"
       }
     ]
   },
   {
-    "id": "7116121",
-    "rank": 94,
-    "name": "Problematic",
-    "creator": "Dhafin",
+    "id": "85695827",
+    "rank": 89,
+    "name": "Iodine",
+    "creator": "Sr3k",
+    "verifier": "sskazeye",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/OHskMH6onUU/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/OHskMH6onUU",
+    "listType": "demon",
+    "rawTier": 4.89,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-06T20:56:46.525Z",
+    "campus": "Ilocos Region Campus",
+    "victorList": [
+      {
+        "name": "sskazeye",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/OHskMH6onUU",
+        "campus": "Ilocos Region Campus",
+        "date": "2026-07-06T20:56:46.525Z"
+      }
+    ]
+  },
+  {
+    "id": "72810041",
+    "rank": 90,
+    "name": "ZXCircleS",
+    "creator": "Wintter",
     "verifier": "sSeanyboii",
     "diff": "Easy Demon",
     "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/d5QAbpOy5TQ/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/d5QAbpOy5TQ",
+    "img": "https://img.youtube.com/vi/xS_wL4ptLb4/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/xS_wL4ptLb4",
     "listType": "demon",
-    "rawTier": 3.13,
+    "rawTier": 4.69,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-07-10T20:45:48.750Z",
+    "date": "2026-07-13T17:02:43.798Z",
     "campus": "Main Campus",
     "victorList": [
       {
         "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/d5QAbpOy5TQ",
+        "video": "https://www.youtube.com/embed/xS_wL4ptLb4",
         "campus": "Main Campus",
-        "date": "2026-07-10T20:45:48.750Z"
-      }
-    ]
-  },
-  {
-    "id": "17235008",
-    "rank": 95,
-    "name": "X",
-    "creator": "TriAxis",
-    "verifier": "dudsiez404",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/Q6X6PuEMjeo/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/Q6X6PuEMjeo",
-    "listType": "demon",
-    "rawTier": 3.12,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-08-23T15:56:11.546Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "dudsiez404",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/Q6X6PuEMjeo",
-        "campus": "Main Campus",
-        "date": "2026-08-23T15:56:11.546Z"
+        "date": "2026-07-13T17:02:43.798Z"
       }
     ]
   },
   {
     "id": "2997354",
-    "rank": 96,
+    "rank": 91,
     "name": "DeCode",
     "creator": "Rek3dge",
     "verifier": "dibless",
@@ -3044,7 +2909,7 @@
     "img": "https://img.youtube.com/vi/CSHP8SMIWco/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/CSHP8SMIWco",
     "listType": "demon",
-    "rawTier": 3.1,
+    "rawTier": 4.39,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3075,8 +2940,170 @@
     ]
   },
   {
-    "id": "138060545",
+    "id": "45622672",
+    "rank": 92,
+    "name": "Depressure",
+    "creator": "Serponge",
+    "verifier": "aldawg123",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/BmawW6MlVKI/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/5bbC7WIM1Kw",
+    "listType": "demon",
+    "rawTier": 4.38,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:23.658Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "aldawg123",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/5bbC7WIM1Kw",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      }
+    ]
+  },
+  {
+    "id": "99246761",
+    "rank": 93,
+    "name": "it really circles",
+    "creator": "EnenzoGD",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/7m8hD0z0YF4/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/7m8hD0z0YF4",
+    "listType": "demon",
+    "rawTier": 3.97,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:12.000Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/7m8hD0z0YF4",
+        "campus": "Main Campus",
+        "date": "2026-06-17T01:42:12.000Z"
+      }
+    ]
+  },
+  {
+    "id": "26245696",
+    "rank": 94,
+    "name": "Trump Circles",
+    "creator": "Rlol",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/Jj-Jj_vKTis/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/Jj-Jj_vKTis",
+    "listType": "demon",
+    "rawTier": 3.85,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-14T21:58:29.616Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Jj-Jj_vKTis",
+        "campus": "Main Campus",
+        "date": "2026-07-14T21:58:29.616Z"
+      }
+    ]
+  },
+  {
+    "id": "18735780",
+    "rank": 95,
+    "name": "Dear Nostalgists",
+    "creator": "TriAxis",
+    "verifier": "dibless",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/RKPfJMrcRHo/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/RKPfJMrcRHo",
+    "listType": "demon",
+    "rawTier": 3.5,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-21T08:03:33.090Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "dibless",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/RKPfJMrcRHo",
+        "campus": "Main Campus",
+        "date": "2026-06-21T08:03:33.090Z"
+      }
+    ]
+  },
+  {
+    "id": "7116121",
+    "rank": 96,
+    "name": "Problematic",
+    "creator": "Dhafin",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/d5QAbpOy5TQ/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/d5QAbpOy5TQ",
+    "listType": "demon",
+    "rawTier": 3.37,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-10T20:45:48.750Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/d5QAbpOy5TQ",
+        "campus": "Main Campus",
+        "date": "2026-07-10T20:45:48.750Z"
+      }
+    ]
+  },
+  {
+    "id": "17235008",
     "rank": 97,
+    "name": "X",
+    "creator": "TriAxis",
+    "verifier": "dudsiez404",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/Q6X6PuEMjeo/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/Q6X6PuEMjeo",
+    "listType": "demon",
+    "rawTier": 3.21,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-08-23T15:56:11.546Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "dudsiez404",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Q6X6PuEMjeo",
+        "campus": "Main Campus",
+        "date": "2026-08-23T15:56:11.546Z"
+      }
+    ]
+  },
+  {
+    "id": "138060545",
+    "rank": 98,
     "name": "RESONATE",
     "creator": "Bpi",
     "verifier": "dibless",
@@ -3102,8 +3129,35 @@
     ]
   },
   {
+    "id": "14000484",
+    "rank": 99,
+    "name": "Retro Circles",
+    "creator": "Nacho21",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/6cWIuVMzcDY/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/6cWIuVMzcDY",
+    "listType": "demon",
+    "rawTier": 3.03,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-21T16:07:54.353Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/6cWIuVMzcDY",
+        "campus": "Main Campus",
+        "date": "2026-06-21T16:07:54.353Z"
+      }
+    ]
+  },
+  {
     "id": "19",
-    "rank": 98,
+    "rank": 100,
     "name": "Theory of Everything 2",
     "creator": "RobTop",
     "verifier": "sSeanyboii",
@@ -3112,7 +3166,7 @@
     "img": "https://img.youtube.com/vi/Xq3a-rxeaaM/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/REl1vktm9gg",
     "listType": "demon",
-    "rawTier": 3.04,
+    "rawTier": 2.84,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3143,60 +3197,6 @@
     ]
   },
   {
-    "id": "94088072",
-    "rank": 99,
-    "name": "Riptide",
-    "creator": "Extrox",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 2.9,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:32:21.855Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:32:21.855Z"
-      }
-    ]
-  },
-  {
-    "id": "14000484",
-    "rank": 100,
-    "name": "Retro Circles",
-    "creator": "Nacho21",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/6cWIuVMzcDY/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/6cWIuVMzcDY",
-    "listType": "demon",
-    "rawTier": 2.89,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-21T16:07:54.353Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/6cWIuVMzcDY",
-        "campus": "Main Campus",
-        "date": "2026-06-21T16:07:54.353Z"
-      }
-    ]
-  },
-  {
     "id": "14",
     "rank": 101,
     "name": "Clubstep",
@@ -3207,7 +3207,7 @@
     "img": "https://img.youtube.com/vi/QLbGTXh8RIk/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/7RI0yNMjT2U",
     "listType": "demon",
-    "rawTier": 2.82,
+    "rawTier": 2.8,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3259,8 +3259,42 @@
     ]
   },
   {
-    "id": "143231051",
+    "id": "358750",
     "rank": 102,
+    "name": "Clutterfunk v2",
+    "creator": "IIINePtunEIII",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/Kkrp9G-vYeE/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/S3TRN7ZYWOg",
+    "listType": "demon",
+    "rawTier": 2.79,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-21T08:15:18.483Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/S3TRN7ZYWOg",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "dibless",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/udjYzBPCrks",
+        "campus": "Main Campus",
+        "date": "2026-06-21T08:15:18.483Z"
+      }
+    ]
+  },
+  {
+    "id": "143231051",
+    "rank": 103,
     "name": "Blackfire Backfire",
     "creator": "kira9999",
     "verifier": "sSeanyboii",
@@ -3286,69 +3320,8 @@
     ]
   },
   {
-    "id": "358750",
-    "rank": 103,
-    "name": "Clutterfunk v2",
-    "creator": "IIINePtunEIII",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/Kkrp9G-vYeE/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/S3TRN7ZYWOg",
-    "listType": "demon",
-    "rawTier": 2.66,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-21T08:15:18.483Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/S3TRN7ZYWOg",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
-      {
-        "name": "dibless",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/udjYzBPCrks",
-        "campus": "Main Campus",
-        "date": "2026-06-21T08:15:18.483Z"
-      }
-    ]
-  },
-  {
-    "id": "61164979",
-    "rank": 104,
-    "name": "Outside",
-    "creator": "cuberry",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 2.61,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:33:54.290Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:33:54.290Z"
-      }
-    ]
-  },
-  {
     "id": "1347537",
-    "rank": 105,
+    "rank": 104,
     "name": "Invisible Clubstep",
     "creator": "J4cKy",
     "verifier": "Akoay",
@@ -3381,8 +3354,143 @@
     ]
   },
   {
-    "id": "86650731",
+    "id": "61164979",
+    "rank": 105,
+    "name": "Outside",
+    "creator": "cuberry",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+    "listType": "demon",
+    "rawTier": 2.61,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-08T14:33:54.290Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+        "campus": "Main Campus",
+        "date": "2026-07-08T14:33:54.290Z"
+      }
+    ]
+  },
+  {
+    "id": "13037894",
     "rank": 106,
+    "name": "Infinite Circles",
+    "creator": "startor",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/sNszUToPIqo/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/sNszUToPIqo",
+    "listType": "demon",
+    "rawTier": 2.42,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-12T18:23:49.427Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/sNszUToPIqo",
+        "campus": "Main Campus",
+        "date": "2026-07-12T18:23:49.427Z"
+      }
+    ]
+  },
+  {
+    "id": "93530247",
+    "rank": 107,
+    "name": "Weird world",
+    "creator": "Tinraz",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+    "listType": "demon",
+    "rawTier": 2.33,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-08T14:35:37.989Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+        "campus": "Main Campus",
+        "date": "2026-07-08T14:35:37.989Z"
+      }
+    ]
+  },
+  {
+    "id": "5098465",
+    "rank": 108,
+    "name": "Speed of Light",
+    "creator": "TheRealSalad",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/5dp2bw7-Zek/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/5dp2bw7-Zek",
+    "listType": "demon",
+    "rawTier": 2.23,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-21T17:21:55.661Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/5dp2bw7-Zek",
+        "campus": "Main Campus",
+        "date": "2026-06-21T17:21:55.661Z"
+      }
+    ]
+  },
+  {
+    "id": "369294",
+    "rank": 109,
+    "name": "Theory of every v2",
+    "creator": "IIINePtunEIII",
+    "verifier": "dibless",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/cBtcrq80TOM/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/cBtcrq80TOM",
+    "listType": "demon",
+    "rawTier": 2.2,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-21T08:11:06.889Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "dibless",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/cBtcrq80TOM",
+        "campus": "Main Campus",
+        "date": "2026-06-21T08:11:06.889Z"
+      }
+    ]
+  },
+  {
+    "id": "86650731",
+    "rank": 110,
     "name": "Broken Roulette",
     "creator": "NoFlix",
     "verifier": "sSeanyboii",
@@ -3391,7 +3499,7 @@
     "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
     "video": "https://www.youtube.com/embed/zdcR9ZafefM",
     "listType": "demon",
-    "rawTier": 2.31,
+    "rawTier": 2.17,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3408,62 +3516,8 @@
     ]
   },
   {
-    "id": "77132030",
-    "rank": 107,
-    "name": "Ratio Circles",
-    "creator": "ch4rlie03",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/o7GUSgTW4N0/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/o7GUSgTW4N0",
-    "listType": "demon",
-    "rawTier": 2.28,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:23.658Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/o7GUSgTW4N0",
-        "campus": "Main Campus",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
-    "id": "45622672",
-    "rank": 108,
-    "name": "Depressure",
-    "creator": "Serponge",
-    "verifier": "aldawg123",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/BmawW6MlVKI/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/5bbC7WIM1Kw",
-    "listType": "demon",
-    "rawTier": 2.19,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-17T01:42:23.658Z",
-    "campus": "",
-    "victorList": [
-      {
-        "name": "aldawg123",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/5bbC7WIM1Kw",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      }
-    ]
-  },
-  {
     "id": "131475001",
-    "rank": 109,
+    "rank": 111,
     "name": "Hyper Techno",
     "creator": "Bluepper",
     "verifier": "sSeanyboii",
@@ -3489,89 +3543,103 @@
     ]
   },
   {
-    "id": "5098465",
-    "rank": 110,
-    "name": "Speed of Light",
-    "creator": "TheRealSalad",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/5dp2bw7-Zek/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/5dp2bw7-Zek",
-    "listType": "demon",
-    "rawTier": 2.1,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-21T17:21:55.661Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/5dp2bw7-Zek",
-        "campus": "Main Campus",
-        "date": "2026-06-21T17:21:55.661Z"
-      }
-    ]
-  },
-  {
-    "id": "369294",
-    "rank": 111,
-    "name": "Theory of every v2",
-    "creator": "IIINePtunEIII",
-    "verifier": "dibless",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/cBtcrq80TOM/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/cBtcrq80TOM",
-    "listType": "demon",
-    "rawTier": 2.02,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-21T08:11:06.889Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "dibless",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/cBtcrq80TOM",
-        "campus": "Main Campus",
-        "date": "2026-06-21T08:11:06.889Z"
-      }
-    ]
-  },
-  {
-    "id": "13037894",
+    "id": "94088072",
     "rank": 112,
-    "name": "Infinite Circles",
-    "creator": "startor",
+    "name": "Riptide",
+    "creator": "Extrox",
     "verifier": "sSeanyboii",
     "diff": "Easy Demon",
     "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/sNszUToPIqo/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/sNszUToPIqo",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
     "listType": "demon",
-    "rawTier": 1.97,
+    "rawTier": 2,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-07-12T18:23:49.427Z",
+    "date": "2026-07-08T14:32:21.855Z",
     "campus": "Main Campus",
     "victorList": [
       {
         "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/sNszUToPIqo",
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
         "campus": "Main Campus",
-        "date": "2026-07-12T18:23:49.427Z"
+        "date": "2026-07-08T14:32:21.855Z"
+      }
+    ]
+  },
+  {
+    "id": "89886591",
+    "rank": 113,
+    "name": "ISpyWithMyLittleEye",
+    "creator": "Voxicat",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/Uj9kiAlhytY/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/Uj9kiAlhytY",
+    "listType": "demon",
+    "rawTier": 1.96,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-26T16:10:40.525Z",
+    "campus": "",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Uj9kiAlhytY",
+        "campus": "",
+        "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "saulgoodman4",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/wVfBSo5dudY",
+        "campus": "Northern Mindanao Campus",
+        "date": "2026-06-26T16:10:40.525Z"
+      },
+      {
+        "name": "Fortnitekid420",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/OjUUWdf2VNA",
+        "campus": "Zamboanga Peninsula Region Campus",
+        "date": "2026-07-04T17:11:49.718Z"
+      }
+    ]
+  },
+  {
+    "id": "77132030",
+    "rank": 114,
+    "name": "Ratio Circles",
+    "creator": "ch4rlie03",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/o7GUSgTW4N0/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/o7GUSgTW4N0",
+    "listType": "demon",
+    "rawTier": 1.94,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-17T01:42:23.658Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/o7GUSgTW4N0",
+        "campus": "Main Campus",
+        "date": "2026-06-17T01:42:23.658Z"
       }
     ]
   },
   {
     "id": "122299385",
-    "rank": 113,
+    "rank": 115,
     "name": "GGEZ",
     "creator": "wetols",
     "verifier": "dibless",
@@ -3598,7 +3666,7 @@
   },
   {
     "id": "143308401",
-    "rank": 114,
+    "rank": 116,
     "name": "entropie",
     "creator": "empsea",
     "verifier": "dibless",
@@ -3631,49 +3699,62 @@
     ]
   },
   {
-    "id": "89886591",
-    "rank": 115,
-    "name": "ISpyWithMyLittleEye",
-    "creator": "Voxicat",
+    "id": "132698020",
+    "rank": 117,
+    "name": "Square Dash",
+    "creator": "SylntNyt",
     "verifier": "sSeanyboii",
     "diff": "Easy Demon",
     "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/Uj9kiAlhytY/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/Uj9kiAlhytY",
+    "img": "https://img.youtube.com/vi/gut6M6IjFYI/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/gut6M6IjFYI",
     "listType": "demon",
-    "rawTier": 1.87,
+    "rawTier": 1.78,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
-    "date": "2026-06-26T16:10:40.525Z",
-    "campus": "",
+    "date": "2026-07-11T15:23:21.556Z",
+    "campus": "Main Campus",
     "victorList": [
       {
         "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/Uj9kiAlhytY",
-        "campus": "",
-        "date": "2026-06-17T01:42:23.658Z"
-      },
+        "video": "https://www.youtube.com/embed/gut6M6IjFYI",
+        "campus": "Main Campus",
+        "date": "2026-07-11T15:23:21.556Z"
+      }
+    ]
+  },
+  {
+    "id": "56302791",
+    "rank": 118,
+    "name": "Rise",
+    "creator": "Wintter",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/btYov9ytojY/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/btYov9ytojY",
+    "listType": "demon",
+    "rawTier": 1.77,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-07-01T22:52:30.075Z",
+    "campus": "Main Campus",
+    "victorList": [
       {
-        "name": "saulgoodman4",
+        "name": "sSeanyboii",
         "percent": 100,
-        "video": "https://www.youtube.com/embed/wVfBSo5dudY",
-        "campus": "Northern Mindanao Campus",
-        "date": "2026-06-26T16:10:40.525Z"
-      },
-      {
-        "name": "Fortnitekid420",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/OjUUWdf2VNA",
-        "campus": "Zamboanga Peninsula Region Campus",
-        "date": "2026-07-04T17:11:49.718Z"
+        "video": "https://www.youtube.com/embed/btYov9ytojY",
+        "campus": "Main Campus",
+        "date": "2026-07-01T22:52:30.075Z"
       }
     ]
   },
   {
     "id": "3543219",
-    "rank": 116,
+    "rank": 119,
     "name": "Speed Racer",
     "creator": "ZenthicAlpha",
     "verifier": "dibless",
@@ -3682,7 +3763,7 @@
     "img": "https://img.youtube.com/vi/ZGD1IC7Dghs/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/ZGD1IC7Dghs",
     "listType": "demon",
-    "rawTier": 1.86,
+    "rawTier": 1.77,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3714,7 +3795,7 @@
   },
   {
     "id": "393159",
-    "rank": 117,
+    "rank": 120,
     "name": "Impulse",
     "creator": "MrCheeseTigrr",
     "verifier": "Velonity",
@@ -3723,7 +3804,7 @@
     "img": "https://img.youtube.com/vi/LgXNG76A7Yk/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/LgXNG76A7Yk",
     "listType": "demon",
-    "rawTier": 1.81,
+    "rawTier": 1.66,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3740,35 +3821,8 @@
     ]
   },
   {
-    "id": "132698020",
-    "rank": 118,
-    "name": "Square Dash",
-    "creator": "SylntNyt",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/gut6M6IjFYI/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/gut6M6IjFYI",
-    "listType": "demon",
-    "rawTier": 1.78,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-11T15:23:21.556Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/gut6M6IjFYI",
-        "campus": "Main Campus",
-        "date": "2026-07-11T15:23:21.556Z"
-      }
-    ]
-  },
-  {
     "id": "131426183",
-    "rank": 119,
+    "rank": 121,
     "name": "DJ",
     "creator": "Split72",
     "verifier": "sSeanyboii",
@@ -3801,8 +3855,35 @@
     ]
   },
   {
+    "id": "56587109",
+    "rank": 122,
+    "name": "phjork",
+    "creator": "cerufiffy",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zcWl-bsAjnQ/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zcWl-bsAjnQ",
+    "listType": "demon",
+    "rawTier": 1.31,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-08-19T16:23:12.507Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zcWl-bsAjnQ",
+        "campus": "Main Campus",
+        "date": "2026-08-19T16:23:12.507Z"
+      }
+    ]
+  },
+  {
     "id": "65765662",
-    "rank": 120,
+    "rank": 123,
     "name": "iS",
     "creator": "Grenate",
     "verifier": "dibless",
@@ -3811,7 +3892,7 @@
     "img": "https://img.youtube.com/vi/2fSjv3jmnjk/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/2fSjv3jmnjk",
     "listType": "demon",
-    "rawTier": 1.25,
+    "rawTier": 1.23,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
@@ -3835,35 +3916,8 @@
     ]
   },
   {
-    "id": "56587109",
-    "rank": 121,
-    "name": "phjork",
-    "creator": "cerufiffy",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zcWl-bsAjnQ/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zcWl-bsAjnQ",
-    "listType": "demon",
-    "rawTier": 1.2,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-08-19T16:23:12.507Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zcWl-bsAjnQ",
-        "campus": "Main Campus",
-        "date": "2026-08-19T16:23:12.507Z"
-      }
-    ]
-  },
-  {
     "id": "128665322",
-    "rank": 122,
+    "rank": 124,
     "name": "red alert",
     "creator": "ratliffigd",
     "verifier": "dibless",
@@ -3896,35 +3950,8 @@
     ]
   },
   {
-    "id": "93530247",
-    "rank": 123,
-    "name": "Weird world",
-    "creator": "Tinraz",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 1.17,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:35:37.989Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:35:37.989Z"
-      }
-    ]
-  },
-  {
     "id": "126502545",
-    "rank": 124,
+    "rank": 125,
     "name": "MachinA DeluXXe",
     "creator": "sink",
     "verifier": "sSeanyboii",
@@ -3946,33 +3973,6 @@
         "video": "https://www.youtube.com/embed/Dp3wSlUGpdc",
         "campus": "Main Campus",
         "date": "2026-06-27T16:21:19.203Z"
-      }
-    ]
-  },
-  {
-    "id": "56302791",
-    "rank": 125,
-    "name": "Rise",
-    "creator": "Wintter",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/btYov9ytojY/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/btYov9ytojY",
-    "listType": "demon",
-    "rawTier": 1.16,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-07-01T22:52:30.075Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/btYov9ytojY",
-        "campus": "Main Campus",
-        "date": "2026-07-01T22:52:30.075Z"
       }
     ]
   },
@@ -4059,8 +4059,42 @@
     ]
   },
   {
-    "id": "5904109",
+    "id": "142685157",
     "rank": 128,
+    "name": "GTA Z",
+    "creator": "EVILF",
+    "verifier": "dibless",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/9eoxZAtT0BY/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/9eoxZAtT0BY",
+    "listType": "demon",
+    "rawTier": 1.13,
+    "aredlRank": null,
+    "aredlPlacement": null,
+    "platPosition": null,
+    "date": "2026-06-23T10:02:01.107Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "dibless",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/9eoxZAtT0BY",
+        "campus": "Main Campus",
+        "date": "2026-06-23T10:02:01.107Z"
+      },
+      {
+        "name": "IceRig",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/YR4O8guwu88",
+        "campus": "Western Visayas Campus",
+        "date": "2026-06-28T18:09:41.053Z"
+      }
+    ]
+  },
+  {
+    "id": "5904109",
+    "rank": 129,
     "name": "Platinum Adventure",
     "creator": "Jerry4",
     "verifier": "sSeanyboii",
@@ -4117,40 +4151,6 @@
         "video": "https://www.youtube.com/embed/gWOiE2HEkT0",
         "campus": "Zamboanga Peninsula Region Campus",
         "date": "2026-07-05T17:42:48.050Z"
-      }
-    ]
-  },
-  {
-    "id": "142685157",
-    "rank": 129,
-    "name": "GTA Z",
-    "creator": "EVILF",
-    "verifier": "dibless",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/9eoxZAtT0BY/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/9eoxZAtT0BY",
-    "listType": "demon",
-    "rawTier": 1.13,
-    "aredlRank": null,
-    "aredlPlacement": null,
-    "platPosition": null,
-    "date": "2026-06-23T10:02:01.107Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "dibless",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/9eoxZAtT0BY",
-        "campus": "Main Campus",
-        "date": "2026-06-23T10:02:01.107Z"
-      },
-      {
-        "name": "IceRig",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/YR4O8guwu88",
-        "campus": "Western Visayas Campus",
-        "date": "2026-06-28T18:09:41.053Z"
       }
     ]
   },
@@ -4254,7 +4254,7 @@
     "img": "https://img.youtube.com/vi/_NevWh9u9W0/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/_NevWh9u9W0",
     "listType": "demon",
-    "rawTier": 1.04,
+    "rawTier": 1.01,
     "aredlRank": null,
     "aredlPlacement": null,
     "platPosition": null,
