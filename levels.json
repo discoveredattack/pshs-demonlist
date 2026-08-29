@@ -932,7 +932,7 @@
     "rank": 32,
     "name": "Sweater Weather",
     "creator": "VelYT",
-    "verifier": "Fortnitekid420",
+    "verifier": "IceRig",
     "diff": "Extreme Demon",
     "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
     "img": "https://img.youtube.com/vi/qhwd9VZDmLM/maxresdefault.jpg",
@@ -958,6 +958,13 @@
         "video": "https://www.youtube.com/embed/1lTCPJwS31A",
         "campus": "Main Campus",
         "date": "2026-08-06T13:36:03.170Z"
+      },
+      {
+        "name": "IceRig",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/X5Gs5C-TsXs",
+        "campus": "Western Visayas Campus",
+        "date": "2026-08-29T15:21:58.199Z"
       }
     ]
   },
