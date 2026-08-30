@@ -5904,5 +5904,32 @@
         "date": "2026-07-12T22:13:27.780Z"
       }
     ]
+  },
+  {
+    "id": "143523674",
+    "rank": 43,
+    "name": "zoink thingy",
+    "creator": "LightBlu",
+    "verifier": "LightBlu",
+    "diff": "",
+    "face": "",
+    "img": "https://img.youtube.com/vi/1xm6QsGHOsM/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/1xm6QsGHOsM",
+    "listType": "challenge",
+    "rawTier": 0,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-08-30T13:05:13.184Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "LightBlu",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/1xm6QsGHOsM",
+        "campus": "Main Campus",
+        "date": "2026-08-30T13:05:13.184Z"
+      }
+    ]
   }
 ]
