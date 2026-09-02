@@ -1115,7 +1115,7 @@
     "img": "https://img.youtube.com/vi/OtThYkW_LGg/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/OtThYkW_LGg",
     "listType": "demon",
-    "rawTier": 18.61,
+    "rawTier": 18.62,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1265,7 +1265,7 @@
     "img": "https://img.youtube.com/vi/t3kUlS7bwEs/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/t3kUlS7bwEs",
     "listType": "demon",
-    "rawTier": 17.14,
+    "rawTier": 17.13,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1768,7 +1768,7 @@
     "img": "",
     "video": "https://www.youtube.com/embed/eO-48T0yaSM",
     "listType": "demon",
-    "rawTier": 13.02,
+    "rawTier": 13.03,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1958,7 +1958,7 @@
     "img": "https://geometrygames.io/cache/data/image/geometry-dash-nine-circles-m192x108.webp",
     "video": "https://www.youtube.com/embed/DO36t7DV0ec",
     "listType": "demon",
-    "rawTier": 11.16,
+    "rawTier": 11.15,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -2603,7 +2603,7 @@
     "img": "https://img.youtube.com/vi/uTkTGnuiFIc/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/uTkTGnuiFIc",
     "listType": "demon",
-    "rawTier": 6.39,
+    "rawTier": 6.38,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -2841,7 +2841,7 @@
     "img": "https://img.youtube.com/vi/xS_wL4ptLb4/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/xS_wL4ptLb4",
     "listType": "demon",
-    "rawTier": 4.86,
+    "rawTier": 4.85,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3337,7 +3337,7 @@
     "img": "https://img.youtube.com/vi/14rUKBL6u2c/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/14rUKBL6u2c",
     "listType": "demon",
-    "rawTier": 2.81,
+    "rawTier": 2.8,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3665,8 +3665,35 @@
     ]
   },
   {
-    "id": "143308401",
+    "id": "143332913",
     "rank": 116,
+    "name": "Pain Engine",
+    "creator": "Wapon77",
+    "verifier": "IceRig",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/2VE9ObDkB2s/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/2VE9ObDkB2s",
+    "listType": "demon",
+    "rawTier": 1.92,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-08-29T15:23:42.848Z",
+    "campus": "Western Visayas Campus",
+    "victorList": [
+      {
+        "name": "IceRig",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/2VE9ObDkB2s",
+        "campus": "Western Visayas Campus",
+        "date": "2026-08-29T15:23:42.848Z"
+      }
+    ]
+  },
+  {
+    "id": "143308401",
+    "rank": 117,
     "name": "entropie",
     "creator": "empsea",
     "verifier": "dibless",
@@ -3695,33 +3722,6 @@
         "video": "https://www.youtube.com/embed/czAKom18v5g",
         "campus": "Western Visayas Campus",
         "date": "2026-07-05T13:53:53.108Z"
-      }
-    ]
-  },
-  {
-    "id": "143332913",
-    "rank": 117,
-    "name": "Pain Engine",
-    "creator": "Wapon77",
-    "verifier": "IceRig",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/2VE9ObDkB2s/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/2VE9ObDkB2s",
-    "listType": "demon",
-    "rawTier": 1.91,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-08-29T15:23:42.848Z",
-    "campus": "Western Visayas Campus",
-    "victorList": [
-      {
-        "name": "IceRig",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/2VE9ObDkB2s",
-        "campus": "Western Visayas Campus",
-        "date": "2026-08-29T15:23:42.848Z"
       }
     ]
   },
