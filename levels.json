@@ -1115,7 +1115,7 @@
     "img": "https://img.youtube.com/vi/QqZ-uoep9SM/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/QqZ-uoep9SM",
     "listType": "demon",
-    "rawTier": 19.93,
+    "rawTier": 19.92,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1370,8 +1370,42 @@
     ]
   },
   {
-    "id": "60619762",
+    "id": "27655282",
     "rank": 45,
+    "name": "Kuiper",
+    "creator": "GD Quasar",
+    "verifier": "LightBlu",
+    "diff": "Insane Demon",
+    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
+    "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
+    "listType": "demon",
+    "rawTier": 16.69,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-06-27T14:50:58.031Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "LightBlu",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
+        "campus": "Main Campus",
+        "date": "2026-06-27T14:50:58.031Z"
+      },
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/CYXZXB3-H1c",
+        "campus": "Main Campus",
+        "date": "2026-07-06T19:47:54.372Z"
+      }
+    ]
+  },
+  {
+    "id": "60619762",
+    "rank": 46,
     "name": "Denouement",
     "creator": "SYNACTIVE GD",
     "verifier": "aldawg123",
@@ -1380,7 +1414,7 @@
     "img": "https://i.ytimg.com/vi/ziHvsAriE3s/hqdefault.jpg",
     "video": "https://www.youtube.com/embed/jESMjFcXTv8",
     "listType": "demon",
-    "rawTier": 16.7,
+    "rawTier": 16.63,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1435,40 +1469,6 @@
         "video": "https://www.youtube.com/embed/RXzd-gXZJWo",
         "campus": "Ilocos Region Campus",
         "date": "2026-09-04T12:37:02.084Z"
-      }
-    ]
-  },
-  {
-    "id": "27655282",
-    "rank": 46,
-    "name": "Kuiper",
-    "creator": "GD Quasar",
-    "verifier": "LightBlu",
-    "diff": "Insane Demon",
-    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
-    "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
-    "listType": "demon",
-    "rawTier": 16.69,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-06-27T14:50:58.031Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "LightBlu",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
-        "campus": "Main Campus",
-        "date": "2026-06-27T14:50:58.031Z"
-      },
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/CYXZXB3-H1c",
-        "campus": "Main Campus",
-        "date": "2026-07-06T19:47:54.372Z"
       }
     ]
   },
@@ -2285,7 +2285,7 @@
     "img": "https://img.youtube.com/vi/AvNHIIMGHyQ/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/eSzjgWEREGQ",
     "listType": "demon",
-    "rawTier": 8.22,
+    "rawTier": 8.23,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -2718,6 +2718,13 @@
         "video": "https://www.youtube.com/embed/9QoNzyGzTK8",
         "campus": "",
         "date": "2026-06-17T01:42:23.658Z"
+      },
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/XT03s4AZmu4",
+        "campus": "Main Campus",
+        "date": "2026-09-06T13:14:27.223Z"
       }
     ]
   },
@@ -2909,7 +2916,7 @@
     "img": "https://img.youtube.com/vi/OHskMH6onUU/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/OHskMH6onUU",
     "listType": "demon",
-    "rawTier": 4.48,
+    "rawTier": 4.49,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -2977,7 +2984,7 @@
     "img": "https://img.youtube.com/vi/7m8hD0z0YF4/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/7m8hD0z0YF4",
     "listType": "demon",
-    "rawTier": 3.96,
+    "rawTier": 3.97,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3004,7 +3011,7 @@
     "img": "https://img.youtube.com/vi/Jj-Jj_vKTis/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/Jj-Jj_vKTis",
     "listType": "demon",
-    "rawTier": 3.77,
+    "rawTier": 3.78,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
