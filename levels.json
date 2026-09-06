@@ -1343,42 +1343,8 @@
     ]
   },
   {
-    "id": "27655282",
-    "rank": 44,
-    "name": "Kuiper",
-    "creator": "GD Quasar",
-    "verifier": "LightBlu",
-    "diff": "Insane Demon",
-    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
-    "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
-    "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
-    "listType": "demon",
-    "rawTier": 16.69,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-06-27T14:50:58.031Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "LightBlu",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
-        "campus": "Main Campus",
-        "date": "2026-06-27T14:50:58.031Z"
-      },
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/CYXZXB3-H1c",
-        "campus": "Main Campus",
-        "date": "2026-07-06T19:47:54.372Z"
-      }
-    ]
-  },
-  {
     "id": "60619762",
-    "rank": 45,
+    "rank": 44,
     "name": "Denouement",
     "creator": "SYNACTIVE GD",
     "verifier": "aldawg123",
@@ -1387,7 +1353,7 @@
     "img": "https://i.ytimg.com/vi/ziHvsAriE3s/hqdefault.jpg",
     "video": "https://www.youtube.com/embed/jESMjFcXTv8",
     "listType": "demon",
-    "rawTier": 16.63,
+    "rawTier": 16.7,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1446,6 +1412,40 @@
     ]
   },
   {
+    "id": "27655282",
+    "rank": 45,
+    "name": "Kuiper",
+    "creator": "GD Quasar",
+    "verifier": "LightBlu",
+    "diff": "Insane Demon",
+    "face": "https://gdladder.com/images/demon_logos/insane_128.webp",
+    "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
+    "listType": "demon",
+    "rawTier": 16.69,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-06-27T14:50:58.031Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "LightBlu",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
+        "campus": "Main Campus",
+        "date": "2026-06-27T14:50:58.031Z"
+      },
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/CYXZXB3-H1c",
+        "campus": "Main Campus",
+        "date": "2026-07-06T19:47:54.372Z"
+      }
+    ]
+  },
+  {
     "id": "7054561",
     "rank": 46,
     "name": "Poltergeist",
@@ -1497,7 +1497,7 @@
     "img": "https://img.youtube.com/vi/gdhhyQ-eBI8/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/gdhhyQ-eBI8",
     "listType": "demon",
-    "rawTier": 15.76,
+    "rawTier": 15.77,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1755,7 +1755,7 @@
     "img": "https://img.youtube.com/vi/LmeiYgQRWdg/maxresdefault.jpg",
     "video": "https://youtube.com/embed/LmeiYgQRWdg&si=1X-EyZNPWuER2oTF",
     "listType": "demon",
-    "rawTier": 13.77,
+    "rawTier": 13.76,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3527,7 +3527,7 @@
     "img": "https://img.youtube.com/vi/BmawW6MlVKI/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/5bbC7WIM1Kw",
     "listType": "demon",
-    "rawTier": 2.18,
+    "rawTier": 2.17,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
