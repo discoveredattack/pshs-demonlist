@@ -1380,7 +1380,7 @@
     "img": "https://img.youtube.com/vi/m1qTTXSuoyQ/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/m1qTTXSuoyQ",
     "listType": "demon",
-    "rawTier": 16.69,
+    "rawTier": 16.7,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -1483,7 +1483,7 @@
     "img": "https://preview.redd.it/rate-my-thumbnail-no-i-didnt-beat-poltergeist-v0-rn7l6xqluupc1.png?width=1280&format=png&auto=webp&s=c610c6b66f1bb0d37d4e147448698fe9b88d8a80",
     "video": "https://www.youtube.com/embed/N05ijX3vz9U",
     "listType": "demon",
-    "rawTier": 15.95,
+    "rawTier": 15.94,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3038,7 +3038,7 @@
     "img": "https://img.youtube.com/vi/VRtkdJXRsJQ/maxresdefault.jpg",
     "video": "https://www.youtube.com/embed/VRtkdJXRsJQ",
     "listType": "demon",
-    "rawTier": 3.83,
+    "rawTier": 3.85,
     "aredlPlacement": null,
     "aredlRank": null,
     "platPosition": null,
@@ -3517,35 +3517,8 @@
     ]
   },
   {
-    "id": "61164979",
-    "rank": 110,
-    "name": "Outside",
-    "creator": "cuberry",
-    "verifier": "sSeanyboii",
-    "diff": "Easy Demon",
-    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
-    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-    "listType": "demon",
-    "rawTier": 2.63,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-07-08T14:33:54.290Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "sSeanyboii",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
-        "campus": "Main Campus",
-        "date": "2026-07-08T14:33:54.290Z"
-      }
-    ]
-  },
-  {
     "id": "1347537",
-    "rank": 111,
+    "rank": 110,
     "name": "Invisible Clubstep",
     "creator": "J4cKy",
     "verifier": "Akoay",
@@ -3574,6 +3547,33 @@
         "video": "https://www.youtube.com/embed/jZpygidlRfk",
         "campus": "Central Luzon Campus",
         "date": "2026-06-17T01:42:23.658Z"
+      }
+    ]
+  },
+  {
+    "id": "61164979",
+    "rank": 111,
+    "name": "Outside",
+    "creator": "cuberry",
+    "verifier": "sSeanyboii",
+    "diff": "Easy Demon",
+    "face": "https://gdladder.com/images/demon_logos/easy_128.webp",
+    "img": "https://img.youtube.com/vi/zdcR9ZafefM/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+    "listType": "demon",
+    "rawTier": 2.6,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-07-08T14:33:54.290Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "sSeanyboii",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/zdcR9ZafefM",
+        "campus": "Main Campus",
+        "date": "2026-07-08T14:33:54.290Z"
       }
     ]
   },
