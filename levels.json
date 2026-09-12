@@ -4699,42 +4699,8 @@
     ]
   },
   {
-    "id": "146508829",
-    "rank": 4,
-    "name": "wave challenge 8",
-    "creator": "LightBlu",
-    "verifier": "LightBlu",
-    "diff": "Extreme Challenge",
-    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
-    "img": "https://img.youtube.com/vi/lklZKE1emcY/mqdefault.jpg",
-    "video": "https://www.youtube.com/embed/lklZKE1emcY",
-    "listType": "challenge",
-    "rawTier": 23.4,
-    "aredlPlacement": null,
-    "aredlRank": null,
-    "platPosition": null,
-    "date": "2026-08-07T23:06:51.418Z",
-    "campus": "Main Campus",
-    "victorList": [
-      {
-        "name": "LightBlu",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/lklZKE1emcY",
-        "campus": "Main Campus",
-        "date": "2026-08-07T23:06:51.418Z"
-      },
-      {
-        "name": "Fortnitekid420",
-        "percent": 100,
-        "video": "https://www.youtube.com/embed/Xk3QE0kF-aM",
-        "campus": "Zamboanga Peninsula Region Campus",
-        "date": "2026-08-08T22:23:18.140Z"
-      }
-    ]
-  },
-  {
     "id": "121969801",
-    "rank": 5,
+    "rank": 4,
     "name": "Shitty TS2",
     "creator": "Machu0624",
     "verifier": "sSeanyboii",
@@ -4756,6 +4722,40 @@
         "video": "https://www.youtube.com/embed/wOVrO2F0L2Q",
         "campus": "Main Campus",
         "date": "2026-09-12T19:00:54.784Z"
+      }
+    ]
+  },
+  {
+    "id": "146508829",
+    "rank": 5,
+    "name": "wave challenge 8",
+    "creator": "LightBlu",
+    "verifier": "LightBlu",
+    "diff": "Extreme Challenge",
+    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
+    "img": "https://img.youtube.com/vi/lklZKE1emcY/mqdefault.jpg",
+    "video": "https://www.youtube.com/embed/lklZKE1emcY",
+    "listType": "challenge",
+    "rawTier": 21,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-08-07T23:06:51.418Z",
+    "campus": "Main Campus",
+    "victorList": [
+      {
+        "name": "LightBlu",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/lklZKE1emcY",
+        "campus": "Main Campus",
+        "date": "2026-08-07T23:06:51.418Z"
+      },
+      {
+        "name": "Fortnitekid420",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/Xk3QE0kF-aM",
+        "campus": "Zamboanga Peninsula Region Campus",
+        "date": "2026-08-08T22:23:18.140Z"
       }
     ]
   },
