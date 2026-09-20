@@ -4694,8 +4694,35 @@
     ]
   },
   {
-    "id": "55637201",
+    "id": "105623347",
     "rank": 1,
+    "name": "Slaughterhouse 23p",
+    "creator": "IcEDcave & more",
+    "verifier": "Fortnitekid420",
+    "diff": "Extreme Challenge",
+    "face": "https://gdladder.com/images/demon_logos/extreme_128.webp",
+    "img": "https://img.youtube.com/vi/-FqNtL8ctbw/maxresdefault.jpg",
+    "video": "https://www.youtube.com/embed/-FqNtL8ctbw",
+    "listType": "challenge",
+    "rawTier": 33.93,
+    "aredlPlacement": null,
+    "aredlRank": null,
+    "platPosition": null,
+    "date": "2026-09-20T11:26:56.067Z",
+    "campus": "Zamboanga Peninsula Region Campus",
+    "victorList": [
+      {
+        "name": "Fortnitekid420",
+        "percent": 100,
+        "video": "https://www.youtube.com/embed/-FqNtL8ctbw",
+        "campus": "Zamboanga Peninsula Region Campus",
+        "date": "2026-09-20T11:26:56.067Z"
+      }
+    ]
+  },
+  {
+    "id": "55637201",
+    "rank": 2,
     "name": "D",
     "creator": "BoBoBoBoBoBoBo",
     "verifier": "wkwo1",
@@ -4722,7 +4749,7 @@
   },
   {
     "id": "144715111",
-    "rank": 2,
+    "rank": 3,
     "name": "Elementary for Aleph",
     "creator": "Fortnitekid420",
     "verifier": "Fortnitekid420",
@@ -4749,7 +4776,7 @@
   },
   {
     "id": "125270816",
-    "rank": 3,
+    "rank": 4,
     "name": "Through The Gates72p",
     "creator": "zMultix/TeamTheDashers",
     "verifier": "AliceMargatr0id",
@@ -4776,7 +4803,7 @@
   },
   {
     "id": "121969801",
-    "rank": 4,
+    "rank": 5,
     "name": "Shitty TS2",
     "creator": "Machu0624",
     "verifier": "sSeanyboii",
@@ -4810,7 +4837,7 @@
   },
   {
     "id": "146508829",
-    "rank": 5,
+    "rank": 6,
     "name": "wave challenge 8",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -4844,7 +4871,7 @@
   },
   {
     "id": "75010253",
-    "rank": 6,
+    "rank": 7,
     "name": "Schabernack Chamber",
     "creator": "bomf",
     "verifier": "ModeraGD",
@@ -4871,7 +4898,7 @@
   },
   {
     "id": "143603952",
-    "rank": 7,
+    "rank": 8,
     "name": "mmmmw",
     "creator": "wkwo1",
     "verifier": "wkwo1",
@@ -4905,7 +4932,7 @@
   },
   {
     "id": "112973149",
-    "rank": 8,
+    "rank": 9,
     "name": "Sonic Wave 65p",
     "creator": "Cyclic/Nayloren/Nranger55226",
     "verifier": "sadboi202",
@@ -4932,7 +4959,7 @@
   },
   {
     "id": "63400900",
-    "rank": 9,
+    "rank": 10,
     "name": "Heartbeat mini wave",
     "creator": "hiyouhavepolio",
     "verifier": "LightBlu",
@@ -4959,7 +4986,7 @@
   },
   {
     "id": "69462216",
-    "rank": 10,
+    "rank": 11,
     "name": "Necromantic Forest",
     "creator": "NineDice",
     "verifier": "ModeraGD",
@@ -4986,7 +5013,7 @@
   },
   {
     "id": "117514744",
-    "rank": 11,
+    "rank": 12,
     "name": "CaolanPlazGD Challe",
     "creator": "spampurel",
     "verifier": "ModeraGD",
@@ -5013,7 +5040,7 @@
   },
   {
     "id": "55367155",
-    "rank": 12,
+    "rank": 13,
     "name": "Shitty Sonic Wave",
     "creator": "AcropolisBoy",
     "verifier": "sSeanyboii",
@@ -5040,7 +5067,7 @@
   },
   {
     "id": "132516414",
-    "rank": 13,
+    "rank": 14,
     "name": "Sakupen Nerfles",
     "creator": "vortrox",
     "verifier": "sSeanyboii",
@@ -5074,7 +5101,7 @@
   },
   {
     "id": "141898656",
-    "rank": 14,
+    "rank": 15,
     "name": "wave challenge 5",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -5101,7 +5128,7 @@
   },
   {
     "id": "143545594",
-    "rank": 15,
+    "rank": 16,
     "name": "Content Farming",
     "creator": "dibless",
     "verifier": "dibless",
@@ -5135,7 +5162,7 @@
   },
   {
     "id": "104369404",
-    "rank": 16,
+    "rank": 17,
     "name": "MaybeWavy",
     "creator": "VRTZE",
     "verifier": "ModeraGD",
@@ -5169,7 +5196,7 @@
   },
   {
     "id": "144618661",
-    "rank": 17,
+    "rank": 18,
     "name": "Ninebreaker",
     "creator": "daBlooKat121",
     "verifier": "daBlooKat121",
@@ -5203,7 +5230,7 @@
   },
   {
     "id": "148129956",
-    "rank": 18,
+    "rank": 19,
     "name": "Elysian",
     "creator": "ModeraGD",
     "verifier": "ModeraGD",
@@ -5230,7 +5257,7 @@
   },
   {
     "id": "144238026",
-    "rank": 19,
+    "rank": 20,
     "name": "Shitty Cycles X",
     "creator": "GILD56",
     "verifier": "sSeanyboii",
@@ -5257,7 +5284,7 @@
   },
   {
     "id": "145584371",
-    "rank": 20,
+    "rank": 21,
     "name": "wave challenge 7",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -5291,7 +5318,7 @@
   },
   {
     "id": "143523674",
-    "rank": 21,
+    "rank": 22,
     "name": "zoink thingy",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -5318,7 +5345,7 @@
   },
   {
     "id": "137699339",
-    "rank": 22,
+    "rank": 23,
     "name": "Eurorave Challenge",
     "creator": "dibless",
     "verifier": "dibless",
@@ -5359,7 +5386,7 @@
   },
   {
     "id": "140202797",
-    "rank": 23,
+    "rank": 24,
     "name": "Nasr City",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5400,7 +5427,7 @@
   },
   {
     "id": "143536349",
-    "rank": 24,
+    "rank": 25,
     "name": "Deadlocked 1p5x",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5441,7 +5468,7 @@
   },
   {
     "id": "134490520",
-    "rank": 25,
+    "rank": 26,
     "name": "Shitty Silent Silhouette",
     "creator": "GILD56",
     "verifier": "LightBlu",
@@ -5468,7 +5495,7 @@
   },
   {
     "id": "128679516",
-    "rank": 26,
+    "rank": 27,
     "name": "wave challenge 1",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -5495,7 +5522,7 @@
   },
   {
     "id": "133024591",
-    "rank": 27,
+    "rank": 28,
     "name": "wave challenge 2",
     "creator": "LightBlu",
     "verifier": "LightBlu",
@@ -5522,7 +5549,7 @@
   },
   {
     "id": "141277411",
-    "rank": 28,
+    "rank": 29,
     "name": "Abbasiya",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5563,7 +5590,7 @@
   },
   {
     "id": "129931602",
-    "rank": 29,
+    "rank": 30,
     "name": "Weathrr grrl",
     "creator": "ModeraGD",
     "verifier": "ModeraGD",
@@ -5597,7 +5624,7 @@
   },
   {
     "id": "124000994",
-    "rank": 30,
+    "rank": 31,
     "name": "Eon 96 100",
     "creator": "Byokki",
     "verifier": "Akoay",
@@ -5645,7 +5672,7 @@
   },
   {
     "id": "140948744",
-    "rank": 31,
+    "rank": 32,
     "name": "Maadi",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5686,7 +5713,7 @@
   },
   {
     "id": "91194999",
-    "rank": 32,
+    "rank": 33,
     "name": "LGBT",
     "creator": "lexycat",
     "verifier": "sskazeye",
@@ -5720,7 +5747,7 @@
   },
   {
     "id": "48382858",
-    "rank": 33,
+    "rank": 34,
     "name": "WAVE CHALLENGE BUFF",
     "creator": "MangekyouGaming",
     "verifier": "aldawg123",
@@ -5761,7 +5788,7 @@
   },
   {
     "id": "141442369",
-    "rank": 34,
+    "rank": 35,
     "name": "Ramses",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5795,7 +5822,7 @@
   },
   {
     "id": "88430438",
-    "rank": 35,
+    "rank": 36,
     "name": "SLOWAVE",
     "creator": "RaynoXx",
     "verifier": "aldawg123",
@@ -5829,7 +5856,7 @@
   },
   {
     "id": "141601536",
-    "rank": 36,
+    "rank": 37,
     "name": "Shubra",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -5884,7 +5911,7 @@
   },
   {
     "id": "142055246",
-    "rank": 37,
+    "rank": 38,
     "name": "the tourist",
     "creator": "wavical",
     "verifier": "sSeanyboii",
@@ -5918,7 +5945,7 @@
   },
   {
     "id": "143193238",
-    "rank": 38,
+    "rank": 39,
     "name": "Yes Machine end",
     "creator": "dibless",
     "verifier": "dibless",
@@ -5959,7 +5986,7 @@
   },
   {
     "id": "140148900",
-    "rank": 39,
+    "rank": 40,
     "name": "Padwurk",
     "creator": "dibless",
     "verifier": "dibless",
@@ -6000,7 +6027,7 @@
   },
   {
     "id": "143250512",
-    "rank": 40,
+    "rank": 41,
     "name": "ws",
     "creator": "dibless",
     "verifier": "dibless",
@@ -6041,7 +6068,7 @@
   },
   {
     "id": "141063347",
-    "rank": 41,
+    "rank": 42,
     "name": "Margarinepotato",
     "creator": "eelektrance",
     "verifier": "eelektrance",
@@ -6096,7 +6123,7 @@
   },
   {
     "id": "141753444",
-    "rank": 42,
+    "rank": 43,
     "name": "Sakupen End 49-53",
     "creator": "Nick240",
     "verifier": "sSeanyboii",
@@ -6151,7 +6178,7 @@
   },
   {
     "id": "143250790",
-    "rank": 43,
+    "rank": 44,
     "name": "ws 2",
     "creator": "dibless",
     "verifier": "dibless",
@@ -6192,7 +6219,7 @@
   },
   {
     "id": "143385344",
-    "rank": 44,
+    "rank": 45,
     "name": "consisSONcy",
     "creator": "sSeanyboii",
     "verifier": "sSeanyboii",
@@ -6240,7 +6267,7 @@
   },
   {
     "id": "139324232",
-    "rank": 45,
+    "rank": 46,
     "name": "mYsTeRy MaNsIoN",
     "creator": "dibless3",
     "verifier": "dibless",
@@ -6281,7 +6308,7 @@
   },
   {
     "id": "108062313",
-    "rank": 46,
+    "rank": 47,
     "name": "1 second hell",
     "creator": "FoldedZero",
     "verifier": "ModeraGD",
@@ -6308,7 +6335,7 @@
   },
   {
     "id": "143967625",
-    "rank": 47,
+    "rank": 48,
     "name": "1 cps",
     "creator": "IceRig",
     "verifier": "IceRig",
