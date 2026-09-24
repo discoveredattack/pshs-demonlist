@@ -24,6 +24,36 @@ export function getRecordList(lvl) {
   return [];
 }
 
+export function prepareEscapedDisplayValues(levels) {
+  for (const lvl of levels) {
+    lvl._escapedCampus = escapeHTML(
+      String(lvl.campus || 'Main Campus').trim()
+    );
+
+    lvl._escapedName = escapeHTML(
+      String(lvl.name || lvl.levelName || 'Unnamed')
+    );
+
+    for (const record of getRecordList(lvl)) {
+      record._escapedUsername = escapeHTML(
+        String(
+          record.username ||
+          record.name ||
+          record.player ||
+          record.user ||
+          ''
+        ).trim()
+      );
+
+      record._escapedCampus = escapeHTML(
+        String(record.campus || 'Main Campus').trim()
+      );
+
+      record._escapedVideo = escapeHTML(record.video || '#');
+    }
+  }
+}
+
 export function calculateLevelPoints(rank) {
   if (isNaN(rank) || rank <= 0 || rank > 150) return 0;
   if (rank <= 20) return 350.00 - (rank - 1) * 12.51; 
