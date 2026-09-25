@@ -683,7 +683,7 @@
         <button class="tab-btn" id="tabChallenges" onclick="switchMainListTab('challenge')">Challenge List</button>
       </div>
       <div class="filter-container-grid">
-        <input id="search" type="text" placeholder="Search levels, creators, or difficulty..." oninput="renderLevelsDashboard()" />
+        <input id="search" type="text" placeholder="Search levels, creators, or difficulty..." oninput="scheduleRenderLevelsDashboard()" />
         <select id="dashboardCampusFilter" class="select" onchange="renderLevelsDashboard()">
           <option value="ALL">All Campuses</option>
         </select>

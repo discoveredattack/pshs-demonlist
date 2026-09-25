@@ -3,6 +3,24 @@ import { escapeHTML, calculateLevelPoints, getNormalizedListType, getRecordList 
 import { CONFIG } from '../config.js';
 import { switchPage } from './modal.js';
 
+let dashboardListEl = null;
+let dashboardSearchEl = null;
+let dashboardCampusFilterEl = null;
+
+function getDashboardElements() {
+  if (!dashboardListEl) {
+    dashboardListEl = document.getElementById('list');
+    dashboardSearchEl = document.getElementById('search');
+    dashboardCampusFilterEl = document.getElementById('dashboardCampusFilter');
+  }
+
+  return {
+    list: dashboardListEl,
+    search: dashboardSearchEl,
+    campusFilter: dashboardCampusFilterEl
+  };
+}
+
 export const uiState = {
   allLevels: [],
   currentMainTab: 'demon',
@@ -325,14 +343,12 @@ export function switchListSubTab(tab, bypassUrlSync = false) {
 }
 
 export function renderLevelsDashboard() {
-  const list = document.getElementById('list');
+  const { list, search, campusFilter } = getDashboardElements();
   if (!list) return;
 
-  const queryEl = document.getElementById('search');
-  const query = queryEl ? escapeHTML(queryEl.value).toLowerCase() : '';
-  const campusEl = document.getElementById('dashboardCampusFilter');
-  const campusVal = campusEl ? campusEl.value : 'ALL';
-
+  const query = search ? escapeHTML(search.value).toLowerCase() : '';
+  const campusVal = campusFilter ? campusFilter.value : 'ALL';
+  
   let displayedItems = uiState.allLevels.filter(lvl => {
     if (getNormalizedListType(lvl) !== uiState.currentMainTab) return false;
 
@@ -453,6 +469,16 @@ export function renderLevelsDashboard() {
   });
   
   list.replaceChildren(fragment);
+}
+
+let searchRenderTimer = null;
+
+export function scheduleRenderLevelsDashboard() {
+  clearTimeout(searchRenderTimer);
+
+  searchRenderTimer = setTimeout(() => {
+    renderLevelsDashboard();
+  }, 150);
 }
 
 export function showLevelDetailPage(lvl, forceRank) {

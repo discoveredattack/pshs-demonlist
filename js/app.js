@@ -71,6 +71,7 @@ window.closeGuidelinesModal = UI.closeGuidelinesModal;
 window.toggleThemeMode = UI.toggleThemeMode;
 window.switchMainListTab = UI.switchMainListTab;
 window.renderLevelsDashboard = UI.renderLevelsDashboard;
+window.scheduleRenderLevelsDashboard = UI.scheduleRenderLevelsDashboard;
 window.switchStatsPageListTab = UI.switchStatsPageListTab;
 window.renderStatsLeaderboard = UI.renderStatsLeaderboard;
 window.viewPlayerVideo = UI.viewPlayerVideo;
