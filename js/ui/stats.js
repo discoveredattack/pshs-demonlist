@@ -105,13 +105,11 @@ export function renderStatsLeaderboard() {
       }
 
       stats.completions.push({
-        levelName: escapeHTML(
-          entry.level.name || entry.level.levelName || 'Unnamed'
-        ),
+        levelName: entry.level._escapedName,
         rank: entry.rank,
         category: entry.category,
         percent: pct,
-        video: escapeHTML(entry.record.video || '#')
+        video: entry.record._escapedVideo
       });
     }
 

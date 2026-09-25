@@ -1,5 +1,6 @@
 // js/app.js
 import { loadDatabase } from './api.js';
+import { prepareEscapedDisplayValues } from './utils.js';
 import * as UI from './ui/index.js';
 
 function safeExecute(fn, context) {
@@ -28,9 +29,12 @@ async function initApp() {
     return;
   }
   
+  // Prepare escaped display values once after loading the database
+  prepareEscapedDisplayValues(fetchedLevels);
+
   // Inject the fetched data into our UI State
   UI.uiState.allLevels = fetchedLevels;
-  
+
   safeExecute(UI.processLiveDecayFilterAndNews, "Changelog Pipeline");
   safeExecute(UI.calculateCounterMetrics, "Global Metrics");
   safeExecute(UI.populateCampusDropdownFilters, "Campus Filters");
